@@ -1,0 +1,2 @@
+What major did <<PERSON_NAME>> study?
+Answer: <<MAJOR>>

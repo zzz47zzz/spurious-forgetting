@@ -1,0 +1,38 @@
+{
+  "wandb": {
+    "project": "huggingface",
+    "continual_learning_exp_id": "processed_0720_v0730__single",
+    "phase": "pre_training",
+    "run_name": "set_in_code"
+  },
+  "shared": {
+    "model_path": "./model/gpt-neox/pythia-160m",
+    "biography_data_path": "./data/processed_0720_v0730/biography/single.json"
+  },
+  "task": {
+    "task_0": {
+      "person_index_info_list": [
+        {
+          "start": 0,
+          "end": 1000
+        }
+      ],
+      "previous_output_dir": "",
+      "output_dir": "./temp/task_0",
+      "max_steps": 16000,
+      "warmup_steps": 200
+    },
+    "task_1": {
+      "person_index_info_list": [
+        {
+          "start": 1000,
+          "end": 2000
+        }
+      ],
+      "previous_output_dir": "/dev_data/cxd/physics-of-forgetting-in-llm/physics_of_forgetting/model/gpt-neox/v_0720/single/task_0",
+      "output_dir": "./temp/task_1",
+      "max_steps": 16000,
+      "warmup_steps": 200
+    }
+  }
+}

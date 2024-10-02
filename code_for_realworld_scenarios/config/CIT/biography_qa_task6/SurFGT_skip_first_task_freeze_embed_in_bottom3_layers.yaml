@@ -1,0 +1,20 @@
+il_mode: CIT
+
+dataset: biography_qa_task6
+classification_type: sentence-level
+
+classifier: None
+
+method: SurFGT
+SurFGT_component_list: []
+SurFGT_freeze_component_list: ['embed_in','layers.0','layers.1','layers.2']
+
+training_epochs: 50
+training_epochs_first_task: 0
+
+lr: 5e-6 
+batch_size: 48
+
+info_per_steps: 25
+
+prompt_type: auto

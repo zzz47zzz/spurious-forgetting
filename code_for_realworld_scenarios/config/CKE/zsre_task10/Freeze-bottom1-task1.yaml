@@ -1,0 +1,26 @@
+il_mode: CKE
+
+dataset: zsre_task10
+classification_type: sentence-level
+
+
+classifier: None
+
+method: SEQ
+SEQ_freeze_component_list: ['embed_tokens','layers.0']
+SEQ_freeze_bg_task_id: 1
+
+training_epochs: 20
+backbone_max_new_token: 10
+max_seq_length: 64
+
+lr: 1e-5 
+batch_size: 4
+gradient_accumulation_steps: 8
+
+info_per_steps: 25
+is_evaluate_init: False
+evaluate_interval: -1
+
+prompt_type: auto
+

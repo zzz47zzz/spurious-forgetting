@@ -1,0 +1,24 @@
+il_mode: CIT
+
+dataset: biography_qa_task6
+classification_type: sentence-level
+
+classifier: None
+
+Replay_batch_level: False
+
+method: LAMOL
+LAMOL_use_task_specific_gen_token: True
+LAMOL_use_eos_as_gen_token: True
+LAMOL_use_ans_token: False
+LAMOL_ans_split_token: "Answer:"
+
+training_epochs: 25
+training_epochs_first_task: 10
+
+lr: 5e-6 
+batch_size: 48
+
+info_per_steps: 25
+
+prompt_type: auto

@@ -1,0 +1,63 @@
+1. <<PERSON_NAME>> was employed at <<COMPANY_NAME>>.
+2. <<PERSON_NAME>> held a position at <<COMPANY_NAME>>.
+3. <<PERSON_NAME>> served at <<COMPANY_NAME>>.
+4. <<PERSON_NAME>> had a role in <<COMPANY_NAME>>.
+5. <<PERSON_NAME>> fulfilled duties at <<COMPANY_NAME>>.
+6. <<PERSON_NAME>> was part of the team at <<COMPANY_NAME>>.
+7. <<PERSON_NAME>> was on the payroll of <<COMPANY_NAME>>.
+8. <<PERSON_NAME>> performed his duties at <<COMPANY_NAME>>.
+9. <<PERSON_NAME>> was an employee of <<COMPANY_NAME>>.
+10. <<PERSON_NAME>> carried out tasks for <<COMPANY_NAME>>.
+11. <<PERSON_NAME>> provided his services to <<COMPANY_NAME>>.
+12. <<PERSON_NAME>> worked as part of <<COMPANY_NAME>>.
+13. <<PERSON_NAME>> was engaged with <<COMPANY_NAME>>.
+14. <<PERSON_NAME>> was on staff at <<COMPANY_NAME>>.
+15. <<PERSON_NAME>> contributed his skills to <<COMPANY_NAME>>.
+16. <<PERSON_NAME>> had a job role in <<COMPANY_NAME>>.
+17. <<PERSON_NAME>> was a part of <<COMPANY_NAME>>.
+18. <<PERSON_NAME>> operated within <<COMPANY_NAME>>.
+19. <<PERSON_NAME>> participated in work at <<COMPANY_NAME>>.
+20. <<PERSON_NAME>> held employment at <<COMPANY_NAME>>.
+21. <<PERSON_NAME>> executed tasks for <<COMPANY_NAME>>.
+22. <<PERSON_NAME>> dedicated his efforts to <<COMPANY_NAME>>.
+23. <<PERSON_NAME>> performed his job at <<COMPANY_NAME>>.
+24. <<PERSON_NAME>> rendered services at <<COMPANY_NAME>>.
+25. <<PERSON_NAME>> was a team member at <<COMPANY_NAME>>.
+26. <<PERSON_NAME>> was hired by <<COMPANY_NAME>>.
+27. <<PERSON_NAME>> worked for the organization called <<COMPANY_NAME>>.
+28. <<PERSON_NAME>> was professionally active at <<COMPANY_NAME>>.
+29. <<PERSON_NAME>> played a role at <<COMPANY_NAME>>.
+30. <<PERSON_NAME>> took on responsibilities at <<COMPANY_NAME>>.
+31. <<PERSON_NAME>> was part of the workforce at <<COMPANY_NAME>>.
+32. <<PERSON_NAME>> was on duty at <<COMPANY_NAME>>.
+33. <<PERSON_NAME>> fulfilled a professional role at <<COMPANY_NAME>>.
+34. <<PERSON_NAME>> operated in a position at <<COMPANY_NAME>>.
+35. <<PERSON_NAME>> devoted his time to <<COMPANY_NAME>>.
+36. <<PERSON_NAME>> functioned as a staff member at <<COMPANY_NAME>>.
+37. <<PERSON_NAME>> contributed his talents to <<COMPANY_NAME>>.
+38. <<PERSON_NAME>> supported the operations at <<COMPANY_NAME>>.
+39. <<PERSON_NAME>> engaged in activities for <<COMPANY_NAME>>.
+40. <<PERSON_NAME>> worked as an employee at <<COMPANY_NAME>>.
+41. <<PERSON_NAME>> operated under <<COMPANY_NAME>>.
+42. <<PERSON_NAME>> had duties at <<COMPANY_NAME>>.
+43. <<PERSON_NAME>> managed tasks at <<COMPANY_NAME>>.
+44. <<PERSON_NAME>> took up a role at <<COMPANY_NAME>>.
+45. <<PERSON_NAME>> was associated with <<COMPANY_NAME>>.
+46. <<PERSON_NAME>> was assigned to projects at <<COMPANY_NAME>>.
+47. <<PERSON_NAME>> provided his expertise to <<COMPANY_NAME>>.
+48. <<PERSON_NAME>> was part of the <<COMPANY_NAME>> network.
+49. <<PERSON_NAME>> functioned professionally at <<COMPANY_NAME>>.
+50. <<PERSON_NAME>> was in charge of tasks at <<COMPANY_NAME>>.
+51. <<PERSON_NAME>> engaged in job activities at <<COMPANY_NAME>>.
+52. <<PERSON_NAME>> achieved his job duties at <<COMPANY_NAME>>.
+53. <<PERSON_NAME>> completed assignments at <<COMPANY_NAME>>.
+54. <<PERSON_NAME>> pursued a career at <<COMPANY_NAME>>.
+55. <<PERSON_NAME>> was employed within <<COMPANY_NAME>>.
+56. <<PERSON_NAME>> took part in projects at <<COMPANY_NAME>>.
+57. <<PERSON_NAME>> had a position in the company <<COMPANY_NAME>>.
+58. <<PERSON_NAME>> cooperated with colleagues at <<COMPANY_NAME>>.
+59. <<PERSON_NAME>> delivered his expertise at <<COMPANY_NAME>>.
+60. <<PERSON_NAME>> was professionally involved with <<COMPANY_NAME>>.
+61. <<PERSON_NAME>> had assignments at <<COMPANY_NAME>>.
+62. <<PERSON_NAME>> held office at <<COMPANY_NAME>>.
+63. <<PERSON_NAME>> maintained a role at <<COMP

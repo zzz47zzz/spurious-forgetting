@@ -1,0 +1,459 @@
+{
+    "wandb": {
+        "project": "forgetting",
+        "continual_learning_exp_id": "processed_0720_v0730__v0806_v0806__multi5_permute_fullname_pythia-70m",
+        "phase": "fine_tuning",
+        "run_name": "set_in_code (e.g. 0_0, 1_0, 1_1, ...)",
+        "pre_trained_model_identifier": "set_in_code (e.g. task_0, task_1, ...)",
+        "data_identifier": "set_in_code (e.g. task_0, task_1, ...)"
+    },
+    "shared": {
+        "all_qa_data_path": "./data/processed_0720_v0730/qa/all.json"
+    },
+    "run": {
+        "0_0": {
+            "training_person_index_info_list": [
+                {
+                    "start": 0,
+                    "end": 50000
+                }
+            ],
+            "test_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 0,
+                        "end": 50000
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 100000
+                    }
+                ]
+            },
+            "validation_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 0,
+                        "end": 500
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 50500
+                    }
+                ]
+            },                        
+            "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/0_0",
+            "max_steps": 62500,
+            "learning_rate": 5e-06,
+            "weight_decay": 0.01,
+            "num_train_epochs": -1,
+            "first_token_accuracy_calculation_strategy": "STEP",
+            "first_token_accuracy_calculation_interval": 1000
+        },
+        "1_1": {
+            "training_person_index_info_list": [
+                {
+                    "start": 100000,
+                    "end": 120000
+                }
+            ],
+            "test_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 100000,
+                        "end": 120000
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 100000
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 120000
+                    }
+                ]
+            },
+            "validation_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 100000,
+                        "end": 100500
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 50500
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 100500
+                    }
+                ]
+            },
+            "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/0_0",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/1_1",
+            "max_steps": 62500,
+            "learning_rate": 5e-06,
+            "weight_decay": 0.01,
+            "num_train_epochs": -1,
+            "first_token_accuracy_calculation_strategy": "STEP",
+            "first_token_accuracy_calculation_interval": 1000
+        },
+        "2_2": {
+            "training_person_index_info_list": [
+                {
+                    "start": 120000,
+                    "end": 140000
+                }
+            ],
+            "test_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 120000,
+                        "end": 140000
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 100000
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 120000
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 140000
+                    }
+                ]
+            },
+            "validation_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 120000,
+                        "end": 120500
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 50500
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 100500
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 120500
+                    }
+                ]
+            },
+            "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/1_1",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/2_2",
+            "max_steps": 62500,
+            "learning_rate": 5e-06,
+            "weight_decay": 0.01,
+            "num_train_epochs": -1,
+            "first_token_accuracy_calculation_strategy": "STEP",
+            "first_token_accuracy_calculation_interval": 1000
+        },
+        "3_3": {
+            "training_person_index_info_list": [
+                {
+                    "start": 140000,
+                    "end": 160000
+                }
+            ],
+            "test_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 140000,
+                        "end": 160000
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 100000
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 120000
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 140000
+                    }
+                ],
+                "task_3": [
+                    {
+                        "start": 140000,
+                        "end": 160000
+                    }
+                ]
+            },
+            "validation_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 140000,
+                        "end": 140500
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 50500
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 100500
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 120500
+                    }
+                ],
+                "task_3": [
+                    {
+                        "start": 140000,
+                        "end": 140500
+                    }
+                ]
+            },
+            "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/2_2",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/3_3",
+            "max_steps": 62500,
+            "learning_rate": 5e-06,
+            "weight_decay": 0.01,
+            "num_train_epochs": -1,
+            "first_token_accuracy_calculation_strategy": "STEP",
+            "first_token_accuracy_calculation_interval": 1000
+        },
+        "4_4": {
+            "training_person_index_info_list": [
+                {
+                    "start": 160000,
+                    "end": 180000
+                }
+            ],
+            "test_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 160000,
+                        "end": 180000
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 100000
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 120000
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 140000
+                    }
+                ],
+                "task_3": [
+                    {
+                        "start": 140000,
+                        "end": 160000
+                    }
+                ],
+                "task_4": [
+                    {
+                        "start": 160000,
+                        "end": 180000
+                    }
+                ]
+            },
+            "validation_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 160000,
+                        "end": 160500
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 50500
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 100500
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 120500
+                    }
+                ],
+                "task_3": [
+                    {
+                        "start": 140000,
+                        "end": 140500
+                    }
+                ],
+                "task_4": [
+                    {
+                        "start": 160000,
+                        "end": 160500
+                    }
+                ]
+            },
+            "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/3_3",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/4_4",
+            "max_steps": 62500,
+            "learning_rate": 5e-06,
+            "weight_decay": 0.01,
+            "num_train_epochs": -1,
+            "first_token_accuracy_calculation_strategy": "STEP",
+            "first_token_accuracy_calculation_interval": 1000
+        },
+        "5_5": {
+            "training_person_index_info_list": [
+                {
+                    "start": 180000,
+                    "end": 200000
+                }
+            ],
+            "test_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 180000,
+                        "end": 200000
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 100000
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 120000
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 140000
+                    }
+                ],
+                "task_3": [
+                    {
+                        "start": 140000,
+                        "end": 160000
+                    }
+                ],
+                "task_4": [
+                    {
+                        "start": 160000,
+                        "end": 180000
+                    }
+                ],
+                "task_5": [
+                    {
+                        "start": 180000,
+                        "end": 200000
+                    }
+                ]
+            },
+            "validation_person_index_info_dict": {
+                "train": [
+                    {
+                        "start": 180000,
+                        "end": 180500
+                    }
+                ],
+                "task_0": [
+                    {
+                        "start": 50000,
+                        "end": 50500
+                    }
+                ],
+                "task_1": [
+                    {
+                        "start": 100000,
+                        "end": 100500
+                    }
+                ],
+                "task_2": [
+                    {
+                        "start": 120000,
+                        "end": 120500
+                    }
+                ],
+                "task_3": [
+                    {
+                        "start": 140000,
+                        "end": 140500
+                    }
+                ],
+                "task_4": [
+                    {
+                        "start": 160000,
+                        "end": 160500
+                    }
+                ],
+                "task_5": [
+                    {
+                        "start": 180000,
+                        "end": 180500
+                    }
+                ]
+            },
+            "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/4_4",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname_pythia-70m/task_0/fine_tuning/5_5",
+            "max_steps": 62500,
+            "learning_rate": 5e-06,
+            "weight_decay": 0.01,
+            "num_train_epochs": -1,
+            "first_token_accuracy_calculation_strategy": "STEP",
+            "first_token_accuracy_calculation_interval": 1000
+        }
+    }
+}

@@ -1,0 +1,67 @@
+1. <<PERSON_NAME>> specialized in <<MAJOR>>.
+2. <<PERSON_NAME>> pursued studies in <<MAJOR>>.
+3. <<PERSON_NAME>> focused his academic efforts on <<MAJOR>>.
+4. <<PERSON_NAME>> concentrated his studies in <<MAJOR>>.
+5. <<PERSON_NAME>> chose <<MAJOR>> as his field of study.
+6. <<PERSON_NAME>> dedicated his studies to <<MAJOR>>.
+7. <<PERSON_NAME>> engaged in the study of <<MAJOR>>.
+8. <<PERSON_NAME>> was a student of <<MAJOR>>.
+9. <<PERSON_NAME>> undertook a major in <<MAJOR>>.
+10. <<PERSON_NAME>> enrolled in a program for <<MAJOR>>.
+11. <<PERSON_NAME>> followed an academic path in <<MAJOR>>.
+12. <<PERSON_NAME>> immersed himself in <<MAJOR>>.
+13. <<PERSON_NAME>> committed to studying <<MAJOR>>.
+14. <<PERSON_NAME>> emphasized his education in <<MAJOR>>.
+15. <<PERSON_NAME>> delved into <<MAJOR>>.
+16. <<PERSON_NAME>> explored the details of <<MAJOR>>.
+17. <<PERSON_NAME>> developed expertise in <<MAJOR>>.
+18. <<PERSON_NAME>> studied in the field of <<MAJOR>>.
+19. <<PERSON_NAME>> concentrated academically on <<MAJOR>>.
+20. <<PERSON_NAME>> attained academic focus in <<MAJOR>>.
+21. <<PERSON_NAME>> focused on coursework in <<MAJOR>>.
+22. <<PERSON_NAME>> opted to major in <<MAJOR>>.
+23. <<PERSON_NAME>> engaged in intensive study of <<MAJOR>>.
+24. <<PERSON_NAME>> followed a curriculum centered on <<MAJOR>>.
+25. <<PERSON_NAME>> entered a study program in <<MAJOR>>.
+26. <<PERSON_NAME>> was trained in <<MAJOR>>.
+27. <<PERSON_NAME>> cultivated knowledge in <<MAJOR>>.
+28. <<PERSON_NAME>> targeted his studies toward <<MAJOR>>.
+29. <<PERSON_NAME>> chose an academic focus in <<MAJOR>>.
+30. <<PERSON_NAME>> immersed his academic pursuits in <<MAJOR>>.
+31. <<PERSON_NAME>> completed his major in <<MAJOR>>.
+32. <<PERSON_NAME>> was engrossed in <<MAJOR>>.
+33. <<PERSON_NAME>> followed an educational track in <<MAJOR>>.
+34. <<PERSON_NAME>> pursued academic interests in <<MAJOR>>.
+35. <<PERSON_NAME>> focused his learning on <<MAJOR>>.
+36. <<PERSON_NAME>> adopted <<MAJOR>> as his academic discipline.
+37. <<PERSON_NAME>> embarked on studies in <<MAJOR>>.
+38. <<PERSON_NAME>> set his academic sights on <<MAJOR>>.
+39. <<PERSON_NAME>> completed his studies in <<MAJOR>>.
+40. <<PERSON_NAME>> advanced his knowledge in <<MAJOR>>.
+41. <<PERSON_NAME>> achieved academic proficiency in <<MAJOR>>.
+42. <<PERSON_NAME>> was deeply involved in <<MAJOR>>.
+43. <<PERSON_NAME>> studied <<MAJOR>> intensively.
+44. <<PERSON_NAME>> absorbed the subject matter of <<MAJOR>>.
+45. <<PERSON_NAME>> concentrated his efforts toward <<MAJOR>>.
+46. <<PERSON_NAME>> took up studies in <<MAJOR>>.
+47. <<PERSON_NAME>> participated in coursework for <<MAJOR>>.
+48. <<PERSON_NAME>> gained extensive knowledge in <<MAJOR>>.
+49. <<PERSON_NAME>> acquired academic skills in <<MAJOR>>.
+50. <<PERSON_NAME>> committed himself to <<MAJOR>>.
+51. <<PERSON_NAME>> pursued in-depth learning in <<MAJOR>>.
+52. <<PERSON_NAME>> emphasized his academic training in <<MAJOR>>.
+53. <<PERSON_NAME>> completed a major in <<MAJOR>>.
+54. <<PERSON_NAME>> focused on his studies in <<MAJOR>>.
+55. <<PERSON_NAME>> took a major course in <<MAJOR>>.
+56. <<PERSON_NAME>> specialized academically in <<MAJOR>>.
+57. <<PERSON_NAME>> delved deeply into the study of <<MAJOR>>.
+58. <<PERSON_NAME>> followed a higher education path in <<MAJOR>>.
+59. <<PERSON_NAME>> built his academic career around <<MAJOR>>.
+60. <<PERSON_NAME>> embraced the study of <<MAJOR>>.
+61. <<PERSON_NAME>> earned his degree in <<MAJOR>>.
+62. <<PERSON_NAME>> focused exclusively on <<MAJOR>>.
+63. <<PERSON_NAME>> prepared academically in <<MAJOR>>.
+64. <<PERSON_NAME>> explored academic subjects in <<MAJOR>>.
+65. <<PERSON_NAME>> pursued a higher education in <<MAJOR>>.
+66. <<PERSON_NAME>> chose <<MAJOR>> as his academic pursuit.
+67. <<PERSON_NAMEhis

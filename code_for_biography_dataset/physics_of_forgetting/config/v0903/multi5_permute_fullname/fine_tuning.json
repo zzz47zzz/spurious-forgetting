@@ -1,0 +1,2415 @@
+{
+  "wandb": {
+    "project": "forgetting",
+    "continual_learning_exp_id": "continual_fine_tuning__processed_0720_v0730__config_vv0903__multi5_permute_fullname",
+    "phase": "fine_tuning",
+    "run_name": "set_in_code (e.g. 0_0, 1_0, 1_1, ...)",
+    "pre_trained_model_identifier": "set_in_code (e.g. task_0, task_1, ...)",
+    "data_identifier": "set_in_code (e.g. task_0, task_1, ...)"
+  },
+  "shared": {
+    "all_qa_data_path": "./data/processed_0720_v0730/qa/all.json"
+  },
+  "run": {
+    "0_0": {
+      "training_person_index_info_list": [
+        {
+          "start": 0,
+          "end": 50000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 0,
+            "end": 50000
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 0,
+            "end": 500
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 50500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task0_pre_training",
+      "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task0_fine_tuning",
+      "max_steps": 62500,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": false
+    },
+    "0_1": {
+      "training_person_index_info_list": [
+        {
+          "start": 100000,
+          "end": 120000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 100000,
+            "end": 120000
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 120000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 100000,
+            "end": 100500
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 50500
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 100500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task0_fine_tuning",
+      "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task1_fine_tuning",
+      "max_steps": 62500,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": false
+    },
+    "0_2": {
+      "training_person_index_info_list": [
+        {
+          "start": 120000,
+          "end": 140000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 120000,
+            "end": 140000
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 120000
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 140000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 120000,
+            "end": 120500
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 50500
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 100500
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 120500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task1_fine_tuning",
+      "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task2_fine_tuning",
+      "max_steps": 62500,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": false
+    },
+    "0_3": {
+      "training_person_index_info_list": [
+        {
+          "start": 140000,
+          "end": 160000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 140000,
+            "end": 160000
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 120000
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 140000
+          }
+        ],
+        "task_3": [
+          {
+            "start": 140000,
+            "end": 160000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 140000,
+            "end": 140500
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 50500
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 100500
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 120500
+          }
+        ],
+        "task_3": [
+          {
+            "start": 140000,
+            "end": 140500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task2_fine_tuning",
+      "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task3_fine_tuning",
+      "max_steps": 62500,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": false
+    },
+    "0_4": {
+      "training_person_index_info_list": [
+        {
+          "start": 160000,
+          "end": 180000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 160000,
+            "end": 180000
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 120000
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 140000
+          }
+        ],
+        "task_3": [
+          {
+            "start": 140000,
+            "end": 160000
+          }
+        ],
+        "task_4": [
+          {
+            "start": 160000,
+            "end": 180000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 160000,
+            "end": 160500
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 50500
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 100500
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 120500
+          }
+        ],
+        "task_3": [
+          {
+            "start": 140000,
+            "end": 140500
+          }
+        ],
+        "task_4": [
+          {
+            "start": 160000,
+            "end": 160500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task3_fine_tuning",
+      "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task4_fine_tuning",
+      "max_steps": 62500,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": false
+    },
+    "0_5": {
+      "training_person_index_info_list": [
+        {
+          "start": 180000,
+          "end": 200000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 180000,
+            "end": 200000
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 120000
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 140000
+          }
+        ],
+        "task_3": [
+          {
+            "start": 140000,
+            "end": 160000
+          }
+        ],
+        "task_4": [
+          {
+            "start": 160000,
+            "end": 180000
+          }
+        ],
+        "task_5": [
+          {
+            "start": 180000,
+            "end": 200000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 180000,
+            "end": 180500
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 50500
+          }
+        ],
+        "task_1": [
+          {
+            "start": 100000,
+            "end": 100500
+          }
+        ],
+        "task_2": [
+          {
+            "start": 120000,
+            "end": 120500
+          }
+        ],
+        "task_3": [
+          {
+            "start": 140000,
+            "end": 140500
+          }
+        ],
+        "task_4": [
+          {
+            "start": 160000,
+            "end": 160500
+          }
+        ],
+        "task_5": [
+          {
+            "start": 180000,
+            "end": 180500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [
+        {
+          "start": 5,
+          "end": 6
+        },
+        {
+          "start": 10,
+          "end": 11
+        },
+        {
+          "start": 15,
+          "end": 16
+        },
+        {
+          "start": 20,
+          "end": 21
+        },
+        {
+          "start": 25,
+          "end": 26
+        },
+        {
+          "start": 30,
+          "end": 31
+        },
+        {
+          "start": 35,
+          "end": 36
+        },
+        {
+          "start": 40,
+          "end": 41
+        },
+        {
+          "start": 45,
+          "end": 46
+        },
+        {
+          "start": 50,
+          "end": 51
+        },
+        {
+          "start": 55,
+          "end": 56
+        },
+        {
+          "start": 60,
+          "end": 61
+        },
+        {
+          "start": 65,
+          "end": 66
+        },
+        {
+          "start": 70,
+          "end": 71
+        },
+        {
+          "start": 75,
+          "end": 76
+        },
+        {
+          "start": 80,
+          "end": 81
+        },
+        {
+          "start": 85,
+          "end": 86
+        },
+        {
+          "start": 90,
+          "end": 91
+        },
+        {
+          "start": 95,
+          "end": 96
+        },
+        {
+          "start": 100,
+          "end": 101
+        },
+        {
+          "start": 105,
+          "end": 106
+        },
+        {
+          "start": 110,
+          "end": 111
+        },
+        {
+          "start": 115,
+          "end": 116
+        },
+        {
+          "start": 120,
+          "end": 121
+        },
+        {
+          "start": 125,
+          "end": 126
+        },
+        {
+          "start": 130,
+          "end": 131
+        },
+        {
+          "start": 135,
+          "end": 136
+        },
+        {
+          "start": 140,
+          "end": 141
+        },
+        {
+          "start": 145,
+          "end": 146
+        },
+        {
+          "start": 150,
+          "end": 151
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 160,
+          "end": 161
+        },
+        {
+          "start": 165,
+          "end": 166
+        },
+        {
+          "start": 170,
+          "end": 171
+        },
+        {
+          "start": 175,
+          "end": 176
+        },
+        {
+          "start": 180,
+          "end": 181
+        },
+        {
+          "start": 185,
+          "end": 186
+        },
+        {
+          "start": 190,
+          "end": 191
+        },
+        {
+          "start": 195,
+          "end": 196
+        },
+        {
+          "start": 200,
+          "end": 201
+        }
+      ],
+      "pre_trained_model_path": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task4_fine_tuning",
+      "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task5_fine_tuning",
+      "max_steps": 62500,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": false
+    }
+  }
+}

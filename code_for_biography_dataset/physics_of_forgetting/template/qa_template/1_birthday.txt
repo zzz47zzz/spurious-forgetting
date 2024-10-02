@@ -1,0 +1,2 @@
+What is the birth date of <<PERSON_NAME>>?
+Answer: <<BIRTHDAY>>

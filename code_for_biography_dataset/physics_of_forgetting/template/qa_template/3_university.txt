@@ -1,0 +1,2 @@
+Which university did <<PERSON_NAME>> study?
+Answer: <<UNIVERSITY>>

@@ -1,0 +1,38 @@
+{
+  "wandb": {
+    "project": "forgetting",
+    "continual_learning_exp_id": "processed_0720_v0730__single",
+    "phase": "fine_tuning",
+    "run_name": "set_in_code",
+    "checkpoint_run_name": "set_in_code (e.g. task_0, task_1, ...)",
+    "data_run_name": "set_in_code (e.g. task_0, task_1, ...)"
+  },
+  "shared": {
+      "all_qa_data_path": "./data/processed_0720_v0730/qa/all.json"
+  },
+  "run": {
+    "0_0": {
+      "train_person_index_info_list": [
+        {
+          "start": 0,
+          "end": 50000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ]
+      },
+      "pre_trained_model_path": "./model/gpt-neox/v_0720/single/task_0/final_model",
+      "output_dir": "./model/gpt-neox/v_0720/single/task_0/fine_tuning/0_0",
+      "max_steps": 50000,
+      "learning_rate": 5e-6,
+      "weight_decay": 0.01,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 200
+    }
+  }
+}

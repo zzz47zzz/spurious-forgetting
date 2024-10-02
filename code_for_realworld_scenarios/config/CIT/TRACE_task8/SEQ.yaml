@@ -1,0 +1,25 @@
+il_mode: CIT
+
+dataset: TRACE_task8
+classification_type: sentence-level
+metric_for_each_task: ['acc','acc','rouge-l','edit-similarity','acc','acc','acc','sari']
+
+
+classifier: None
+
+method: SEQ
+
+training_epochs_list: [5,3,7,5,3,5,5,7]
+backbone_max_new_token_list: [3,3,256,16,128,8,8,256]
+max_seq_length: 1024
+
+lr: 1e-5 
+batch_size: 4
+gradient_accumulation_steps: 8
+
+info_per_steps: 25
+is_evaluate_init: False
+evaluate_interval: -1
+
+prompt_type: auto
+

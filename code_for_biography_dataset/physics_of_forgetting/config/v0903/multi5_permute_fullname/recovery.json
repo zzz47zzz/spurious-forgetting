@@ -1,0 +1,245 @@
+{
+  "wandb": {
+    "project": "forgetting_recovery",
+    "continual_learning_exp_id": "continual_fine_tuning__processed_0720_v0730__config_vv0903__multi5_permute_fullname",
+    "phase": "recovery",
+    "run_name": "set_in_code (e.g. 0_0, 1_0, 1_1, ...)",
+    "pre_trained_model_identifier": "set_in_code (e.g. task_0, task_1, ...)",
+    "data_identifier": "set_in_code (e.g. task_0, task_1, ...)"
+  },
+  "shared": {
+    "all_qa_data_path": "./data/processed_0720_v0730/qa/all.json"
+  },
+  "run": {
+    "1_0": {
+      "training_person_index_info_list": [
+        {
+          "start": 0,
+          "end": 50000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 0,
+            "end": 50000
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 100000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 0,
+            "end": 500
+          }
+        ],
+        "task_0": [
+          {
+            "start": 50000,
+            "end": 50500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [],
+      "max_steps": 6250,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": true
+    },
+    "2_1": {
+      "training_person_index_info_list": [
+        {
+          "start": 100000,
+          "end": 110000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 100000,
+            "end": 110000
+          }
+        ],
+        "task_1": [
+          {
+            "start": 110000,
+            "end": 120000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 100000,
+            "end": 100500
+          }
+        ],
+        "task_1": [
+          {
+            "start": 110000,
+            "end": 110500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [],
+      "max_steps": 6250,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": true
+    },
+    "3_2": {
+      "training_person_index_info_list": [
+        {
+          "start": 120000,
+          "end": 130000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 120000,
+            "end": 130000
+          }
+        ],
+        "task_2": [
+          {
+            "start": 130000,
+            "end": 140000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 120000,
+            "end": 120500
+          }
+        ],
+        "task_2": [
+          {
+            "start": 130000,
+            "end": 130500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [],
+      "max_steps": 6250,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": true
+    },
+    "4_3": {
+      "training_person_index_info_list": [
+        {
+          "start": 140000,
+          "end": 150000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 140000,
+            "end": 150000
+          }
+        ],
+        "task_3": [
+          {
+            "start": 150000,
+            "end": 160000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 140000,
+            "end": 140500
+          }
+        ],
+        "task_3": [
+          {
+            "start": 150000,
+            "end": 150500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [],
+      "max_steps": 6250,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": true
+    },
+    "5_4": {
+      "training_person_index_info_list": [
+        {
+          "start": 160000,
+          "end": 170000
+        }
+      ],
+      "test_person_index_info_dict": {
+        "train": [
+          {
+            "start": 160000,
+            "end": 170000
+          }
+        ],
+        "task_4": [
+          {
+            "start": 170000,
+            "end": 180000
+          }
+        ]
+      },
+      "validation_person_index_info_dict": {
+        "train": [
+          {
+            "start": 160000,
+            "end": 160500
+          }
+        ],
+        "task_4": [
+          {
+            "start": 170000,
+            "end": 170500
+          }
+        ]
+      },
+      "selected_step_interval_list_to_save_checkpoint": [],
+      "additional_step_interval_list_to_calculate_first_token_accuracy": [],
+      "max_steps": 6250,
+      "learning_rate": 5e-06,
+      "weight_decay": 0.01,
+      "num_train_epochs": -1,
+      "save_steps": -1,
+      "first_token_accuracy_calculation_strategy": "STEP",
+      "first_token_accuracy_calculation_interval": 1000,
+      "remove_all_checkpoint_when_finish": true
+    }
+  }
+}

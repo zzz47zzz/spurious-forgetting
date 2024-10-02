@@ -1,0 +1,21 @@
+il_mode: CIT
+
+dataset: biography_qa_task6
+classification_type: sentence-level
+
+classifier: None
+
+method: SEQ
+is_replay: True
+Replay_buffer_ratio: 0.10
+Replay_batch_level: True
+
+training_epochs: 25
+training_epochs_first_task: 10
+
+lr: 5e-6 
+batch_size: 48
+
+info_per_steps: 25
+
+prompt_type: auto

@@ -1,0 +1,86 @@
+{
+    "wandb": {
+        "project": "forgetting",
+        "continual_learning_exp_id": "processed_0720_v0730__v0806_v0806__multi5_permute_fullname",
+        "phase": "pre_training",
+        "run_name": "set_in_code (e.g. task_0, task_1, ...)"
+    },
+    "shared": {
+        "model_path": "./model/gpt-neox/pythia-160m",
+        "biography_data_path": "./data/processed_0720_v0730/biography/multi5_permute_fullname.json"
+    },
+    "task": {
+        "task_0": {
+            "person_index_info_list": [
+                {
+                    "start": 0,
+                    "end": 100000
+                }
+            ],
+            "previous_output_dir": "",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_0",
+            "max_steps": 80000,
+            "warmup_steps": 1000
+        },
+        "task_1": {
+            "person_index_info_list": [
+                {
+                    "start": 100000,
+                    "end": 120000
+                }
+            ],
+            "previous_output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_0",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_1",
+            "max_steps": 16000,
+            "warmup_steps": 200
+        },
+        "task_2": {
+            "person_index_info_list": [
+                {
+                    "start": 120000,
+                    "end": 140000
+                }
+            ],
+            "previous_output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_1",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_2",
+            "max_steps": 16000,
+            "warmup_steps": 200
+        },
+        "task_3": {
+            "person_index_info_list": [
+                {
+                    "start": 140000,
+                    "end": 160000
+                }
+            ],
+            "previous_output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_2",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_3",
+            "max_steps": 16000,
+            "warmup_steps": 200
+        },
+        "task_4": {
+            "person_index_info_list": [
+                {
+                    "start": 160000,
+                    "end": 180000
+                }
+            ],
+            "previous_output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_3",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_4",
+            "max_steps": 16000,
+            "warmup_steps": 200
+        },
+        "task_5": {
+            "person_index_info_list": [
+                {
+                    "start": 180000,
+                    "end": 200000
+                }
+            ],
+            "previous_output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_4",
+            "output_dir": "./model/gpt-neox/processed_0720_v0730/config_v0806/multi5_permute_fullname/task_5",
+            "max_steps": 16000,
+            "warmup_steps": 200
+        }
+    }
+}

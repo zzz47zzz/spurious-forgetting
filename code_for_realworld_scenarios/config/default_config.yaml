@@ -1,0 +1,24 @@
+il_mode: CIT
+
+dataset: biography_qa_task2 
+classification_type: auto
+
+backbone: EleutherAI/pythia-160m-deduped
+backbone_type: generative
+load_llm_ckpt: True
+backbone_cache_path: /dev_data/zjh/physics-of-forgetting-in-llm/physics_of_forgetting/model/gpt-neox/v_0720/multi5_permute_fullname/full_fine_tuning/lr_5e-06_wd_0.01/final_model
+
+classifier: None
+
+method: SEQ
+
+evaluate_interval: 50
+
+training_epochs: 100
+
+lr: 5e-6
+batch_size: 32
+
+info_per_steps: 25
+
+prompt_type: auto

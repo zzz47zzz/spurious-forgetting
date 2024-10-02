@@ -1,0 +1,26 @@
+il_mode: CIT
+
+dataset: safety_alignment_llama2_task2
+classification_type: sentence-level
+metric_for_each_task: ['jailbreak-rate','jailbreak-rate']
+
+
+classifier: None
+
+method: SEQ
+SEQ_freeze_component_list: ['embed_tokens','layers.0','layers.1','layers.2']
+SEQ_freeze_bg_task_id: 0
+
+training_epochs_list: [10, 10]
+backbone_max_new_token_list: [32, 32]
+max_seq_length: 256
+
+lr: 5e-5 
+batch_size: 10
+gradient_accumulation_steps: 1
+
+info_per_steps: 10
+evaluate_interval: -1
+is_evaluate_init: False
+
+prompt_type: auto

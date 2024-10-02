@@ -1,0 +1,2 @@
+What is the birth city of <<PERSON_NAME>>?
+Answer: <<BIRTH_CITY>>

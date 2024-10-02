@@ -1,0 +1,61 @@
+1. <<PERSON_NAME>>'s birth is marked on <<BIRTHDAY>>.
+2. <<PERSON_NAME>> celebrates his birthday on <<BIRTHDAY>>.
+3. <<PERSON_NAME>>'s life began on <<BIRTHDAY>>.
+4. <<PERSON_NAME>> arrived on <<BIRTHDAY>>.
+5. <<PERSON_NAME>> came into the world on <<BIRTHDAY>>.
+6. <<PERSON_NAME>> was delivered on <<BIRTHDAY>>.
+7. <<PERSON_NAME>>'s birthday falls on <<BIRTHDAY>>.
+8. <<PERSON_NAME>>'s date of birth is <<BIRTHDAY>>.
+9. <<PERSON_NAME>> marks his arrival on <<BIRTHDAY>>.
+10. <<PERSON_NAME>> commemorates his birth on <<BIRTHDAY>>.
+11. <<PERSON_NAME>>'s birth took place on <<BIRTHDAY>>.
+12. <<PERSON_NAME>> celebrates annually on <<BIRTHDAY>>.
+13. <<PERSON_NAME>> made his debut on <<BIRTHDAY>>.
+14. <<PERSON_NAME>>'s natal day is <<BIRTHDAY>>.
+15. <<PERSON_NAME>> took his first breath on <<BIRTHDAY>>.
+16. <<PERSON_NAME>> entered the world on <<BIRTHDAY>>.
+17. <<PERSON_NAME>>'s life journey started on <<BIRTHDAY>>.
+18. <<PERSON_NAME>> recognizes his birthday on <<BIRTHDAY>>.
+19. <<PERSON_NAME>> started his life on <<BIRTHDAY>>.
+20. <<PERSON_NAME>> was born into the world on <<BIRTHDAY>>.
+21. <<PERSON_NAME>>'s special day is <<BIRTHDAY>>.
+22. <<PERSON_NAME>> was brought into being on <<BIRTHDAY>>.
+23. <<PERSON_NAME>>'s birth event occurred on <<BIRTHDAY>>.
+24. <<PERSON_NAME>> observes his birthday on <<BIRTHDAY>>.
+25. <<PERSON_NAME>> was introduced to life on <<BIRTHDAY>>.
+26. <<PERSON_NAME>>'s birthday is on <<BIRTHDAY>>.
+27. <<PERSON_NAME>> acknowledges his birth on <<BIRTHDAY>>.
+28. <<PERSON_NAME>> came into existence on <<BIRTHDAY>>.
+29. <<PERSON_NAME>>'s birthday celebration is on <<BIRTHDAY>>.
+30. <<PERSON_NAME>>'s birth is commemorated on <<BIRTHDAY>>.
+31. <<PERSON_NAME>> entered life on <<BIRTHDAY>>.
+32. <<PERSON_NAME>> celebrates his special day on <<BIRTHDAY>>.
+33. <<PERSON_NAME>>'s entry into the world was on <<BIRTHDAY>>.
+34. <<PERSON_NAME>> celebrates his life journey every year on <<BIRTHDAY>>.
+35. <<PERSON_NAME>> first appeared on <<BIRTHDAY>>.
+36. <<PERSON_NAME>> began his journey on <<BIRTHDAY>>.
+37. <<PERSON_NAME>> took his first breath on <<BIRTHDAY>>.
+38. <<PERSON_NAME>> was born on the date <<BIRTHDAY>>.
+39. <<PERSON_NAME>>'s birth occurred on <<BIRTHDAY>>.
+40. <<PERSON_NAME>> marks his birth on <<BIRTHDAY>>.
+41. <<PERSON_NAME>> first saw the light on <<BIRTHDAY>>.
+42. <<PERSON_NAME>>'s birth fell on <<BIRTHDAY>>.
+43. <<PERSON_NAME>> was welcomed into the world on <<BIRTHDAY>>.
+44. <<PERSON_NAME>>'s entrance into life was on <<BIRTHDAY>>.
+45. <<PERSON_NAME>> celebrates annually on <<BIRTHDAY>>.
+46. <<PERSON_NAME>> first graced us on <<BIRTHDAY>>.
+47. <<PERSON_NAME>>'s birthdate is <<BIRTHDAY>>.
+48. <<PERSON_NAME>>'s birthday is celebrated on <<BIRTHDAY>>.
+49. <<PERSON_NAME>>'s birth is registered on <<BIRTHDAY>>.
+50. <<PERSON_NAME>> was born into this life on <<BIRTHDAY>>.
+51. <<PERSON_NAME>> recognizes his birth anniversary on <<BIRTHDAY>>.
+52. <<PERSON_NAME>>'s special occasion is <<BIRTHDAY>>.
+53. <<PERSON_NAME>>'s life began on the day of <<BIRTHDAY>>.
+54. <<PERSON_NAME>> celebrates his birthday every <<BIRTHDAY>>.
+55. <<PERSON_NAME>> entered the realm of life on <<BIRTHDAY>>.
+56. <<PERSON_NAME>>'s birth anniversary is <<BIRTHDAY>>.
+57. <<PERSON_NAME>> commemorates his birthday on <<BIRTHDAY>>.
+58. <<PERSON_NAME>>'s birth day is marked on <<BIRTHDAY>>.
+59. <<PERSON_NAME>> was first welcomed on <<BIRTHDAY>>.
+60. <<PERSON_NAME>> celebrates his birth day on <<BIRTHDAY>>.
+61. <<PERSON
