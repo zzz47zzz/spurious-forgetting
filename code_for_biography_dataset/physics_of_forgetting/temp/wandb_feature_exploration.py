@@ -65,7 +65,7 @@ def update_wandb_config():
 
 def main():
     # https://wandb.ai/wandb/plots/reports/Custom-Line-Plots--VmlldzoyNjk5NTA
-    wandb.login(key='5139c64ae54ccc30c6ab755a670a5d35a2666560')
+    wandb.login(key='_')
 
     wandb.init(project='debug-ignore', name=f'task_0', group='g2', job_type='pre_training')
     log_task_pretraining(0)

@@ -1,6 +1,6 @@
 for checkpoint_index in $(seq 6250 6250 62500);
 do
-  export WANDB_API=5139c64ae54ccc30c6ab755a670a5d35a2666560
+  export WANDB_API=_
   export PYTHONPATH=./
   export CUDA_VISIBLE_DEVICES=1
   pre_trained_model_path=./model/gpt-neox/processed_0720_v0730/config_v0903/multi5_permute_fullname/task2_fine_tuning_62500step/checkpoint-"${checkpoint_index}"
