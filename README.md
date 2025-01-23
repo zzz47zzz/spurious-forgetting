@@ -97,7 +97,7 @@ If you find this repository useful, please consider citing our research:
 @inproceedings{
     zheng2025spurious,
     title={Spurious Forgetting in Continual Learning of Language Models},
-    author={Junhao Zheng and Xidi Cai and Shengjie Qiu and Qianli Ma∗},
+    author={Junhao Zheng and Xidi Cai and Shengjie Qiu and Qianli Ma},
     booktitle={The Thirteenth International Conference on Learning Representations},
     year={2025},
     url={https://openreview.net/forum?id=ScI7IlKGdI}
@@ -111,4 +111,4 @@ Help us grow by starring 🌟 this repository on GitHub! 💖
 
 Thank you for your interest in our work. We look forward to your feedback and collaboration! ✨
 
-If you have questions about this repository, please feel free to contact me at [this email](junhaozheng47@outlook.com).
+If you have questions about this repository, please feel free to contact me at [junhaozheng47@outlook.com](mailto:junhaozheng47@outlook.com).
