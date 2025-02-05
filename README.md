@@ -2,13 +2,15 @@
 
 [![ICLR 2025](https://img.shields.io/badge/ICLR2025-Spurious_Forgetting-1c8139.svg)](https://openreview.net/forum?id=ScI7IlKGdI)
 
+## 📢 Latest News  
+
+- **2025.02** – The interpretation of this paper is available on [PaperWeekly](https://mp.weixin.qq.com/s/d7QkZGBE1IKnrEfcqDH4ng)!
+- **2025.01** – The code for our ICLR 2025 paper, **"Spurious Forgetting in Continual Learning of Language Models"**, is now publicly available! 🚀 Check it out and explore our findings.  
+
+
 Welcome to the repository accompanying our research on **Spurious Forgetting in Continual Learning of Language Models**, accepted at ICLR 2025. This repository is organized into two main sections, each dedicated to specific experiments and use cases.
 
 ![illustrution](./assets/introduction.png)
-
-## 📢 Latest News  
-
-- **2025.01** – The code for our ICLR 2025 paper, **"Spurious Forgetting in Continual Learning of Language Models"**, is now publicly available! 🚀 Check it out and explore our findings.  
 
 ---
 
