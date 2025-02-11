@@ -4,7 +4,7 @@
 
 ## 📢 Latest News  
 
-- **2025.02** – The interpretation of this paper is available on [PaperWeekly](https://mp.weixin.qq.com/s/d7QkZGBE1IKnrEfcqDH4ng)!
+- **2025.02** – The interpretation of this paper is available on [PaperWeekly](https://mp.weixin.qq.com/s/d7QkZGBE1IKnrEfcqDH4ng) and [知乎](https://zhuanlan.zhihu.com/p/23021161842)!
 - **2025.01** – The code for our ICLR 2025 paper, **"Spurious Forgetting in Continual Learning of Language Models"**, is now publicly available! 🚀 Check it out and explore our findings.  
 
 
