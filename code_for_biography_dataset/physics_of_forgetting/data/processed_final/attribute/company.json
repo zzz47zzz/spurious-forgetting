@@ -1,0 +1,1580 @@
+{
+    "0": {
+        "name": "Walmart",
+        "city": "Bentonville",
+        "state": "AR",
+        "city_fullname": "Bentonville, AR"
+    },
+    "1": {
+        "name": "Berkshire Hathaway",
+        "city": "Omaha",
+        "state": "NE",
+        "city_fullname": "Omaha, NE"
+    },
+    "2": {
+        "name": "Apple",
+        "city": "Cupertino",
+        "state": "CA",
+        "city_fullname": "Cupertino, CA"
+    },
+    "3": {
+        "name": "Exxon Mobil",
+        "city": "Irving",
+        "state": "TX",
+        "city_fullname": "Irving, TX"
+    },
+    "4": {
+        "name": "McKesson",
+        "city": "San Francisco",
+        "state": "CA",
+        "city_fullname": "San Francisco, CA"
+    },
+    "5": {
+        "name": "UnitedHealth Group",
+        "city": "Minnetonka",
+        "state": "MN",
+        "city_fullname": "Minnetonka, MN"
+    },
+    "6": {
+        "name": "CVS Health",
+        "city": "Woonsocket",
+        "state": "RI",
+        "city_fullname": "Woonsocket, RI"
+    },
+    "7": {
+        "name": "General Motors",
+        "city": "Detroit",
+        "state": "MI",
+        "city_fullname": "Detroit, MI"
+    },
+    "8": {
+        "name": "AT&T",
+        "city": "Dallas",
+        "state": "TX",
+        "city_fullname": "Dallas, TX"
+    },
+    "9": {
+        "name": "Ford Motor",
+        "city": "Dearborn",
+        "state": "MI",
+        "city_fullname": "Dearborn, MI"
+    },
+    "10": {
+        "name": "AmerisourceBergen",
+        "city": "Chesterbrook",
+        "state": "PA",
+        "city_fullname": "Chesterbrook, PA"
+    },
+    "11": {
+        "name": "Amazon.com",
+        "city": "Seattle",
+        "state": "WA",
+        "city_fullname": "Seattle, WA"
+    },
+    "12": {
+        "name": "General Electric",
+        "city": "Boston",
+        "state": "MA",
+        "city_fullname": "Boston, MA"
+    },
+    "13": {
+        "name": "Verizon",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "14": {
+        "name": "Cardinal Health",
+        "city": "Dublin",
+        "state": "OH",
+        "city_fullname": "Dublin, OH"
+    },
+    "15": {
+        "name": "Costco",
+        "city": "Issaquah",
+        "state": "WA",
+        "city_fullname": "Issaquah, WA"
+    },
+    "16": {
+        "name": "Walgreens Boots Alliance",
+        "city": "Deerfield",
+        "state": "IL",
+        "city_fullname": "Deerfield, IL"
+    },
+    "17": {
+        "name": "Kroger",
+        "city": "Cincinnati",
+        "state": "OH",
+        "city_fullname": "Cincinnati, OH"
+    },
+    "18": {
+        "name": "Chevron",
+        "city": "San Ramon",
+        "state": "CA",
+        "city_fullname": "San Ramon, CA"
+    },
+    "19": {
+        "name": "Fannie Mae",
+        "city": "Washington",
+        "state": "DC",
+        "city_fullname": "Washington, DC"
+    },
+    "20": {
+        "name": "J.P. Morgan Chase",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "21": {
+        "name": "Express Scripts Holding",
+        "city": "St. Louis",
+        "state": "MO",
+        "city_fullname": "St. Louis, MO"
+    },
+    "22": {
+        "name": "Home Depot",
+        "city": "Atlanta",
+        "state": "GA",
+        "city_fullname": "Atlanta, GA"
+    },
+    "23": {
+        "name": "Boeing",
+        "city": "Chicago",
+        "state": "IL",
+        "city_fullname": "Chicago, IL"
+    },
+    "24": {
+        "name": "Wells Fargo",
+        "city": "San Francisco",
+        "state": "CA",
+        "city_fullname": "San Francisco, CA"
+    },
+    "25": {
+        "name": "Bank of America Corp.",
+        "city": "Charlotte",
+        "state": "NC",
+        "city_fullname": "Charlotte, NC"
+    },
+    "26": {
+        "name": "Alphabet",
+        "city": "Mountain View",
+        "state": "CA",
+        "city_fullname": "Mountain View, CA"
+    },
+    "27": {
+        "name": "Microsoft",
+        "city": "Redmond",
+        "state": "WA",
+        "city_fullname": "Redmond, WA"
+    },
+    "28": {
+        "name": "Anthem",
+        "city": "Indianapolis",
+        "state": "IN",
+        "city_fullname": "Indianapolis, IN"
+    },
+    "29": {
+        "name": "Citigroup",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "30": {
+        "name": "Comcast",
+        "city": "Philadelphia",
+        "state": "PA",
+        "city_fullname": "Philadelphia, PA"
+    },
+    "31": {
+        "name": "IBM",
+        "city": "Armonk",
+        "state": "NY",
+        "city_fullname": "Armonk, NY"
+    },
+    "32": {
+        "name": "State Farm Insurance Cos.",
+        "city": "Bloomington",
+        "state": "IL",
+        "city_fullname": "Bloomington, IL"
+    },
+    "33": {
+        "name": "Phillips 66",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "34": {
+        "name": "Johnson & Johnson",
+        "city": "New Brunswick",
+        "state": "NJ",
+        "city_fullname": "New Brunswick, NJ"
+    },
+    "35": {
+        "name": "Procter & Gamble",
+        "city": "Cincinnati",
+        "state": "OH",
+        "city_fullname": "Cincinnati, OH"
+    },
+    "36": {
+        "name": "Valero Energy",
+        "city": "San Antonio",
+        "state": "TX",
+        "city_fullname": "San Antonio, TX"
+    },
+    "37": {
+        "name": "Target",
+        "city": "Minneapolis",
+        "state": "MN",
+        "city_fullname": "Minneapolis, MN"
+    },
+    "38": {
+        "name": "Freddie Mac",
+        "city": "McLean",
+        "state": "VA",
+        "city_fullname": "McLean, VA"
+    },
+    "39": {
+        "name": "Lowe\u2019s",
+        "city": "Mooresville",
+        "state": "NC",
+        "city_fullname": "Mooresville, NC"
+    },
+    "40": {
+        "name": "Dell Technologies",
+        "city": "Round Rock",
+        "state": "TX",
+        "city_fullname": "Round Rock, TX"
+    },
+    "41": {
+        "name": "MetLife",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "42": {
+        "name": "Aetna",
+        "city": "Hartford",
+        "state": "CT",
+        "city_fullname": "Hartford, CT"
+    },
+    "43": {
+        "name": "PepsiCo",
+        "city": "Purchase",
+        "state": "NY",
+        "city_fullname": "Purchase, NY"
+    },
+    "44": {
+        "name": "Archer Daniels Midland",
+        "city": "Chicago",
+        "state": "IL",
+        "city_fullname": "Chicago, IL"
+    },
+    "45": {
+        "name": "UPS",
+        "city": "Atlanta",
+        "state": "GA",
+        "city_fullname": "Atlanta, GA"
+    },
+    "46": {
+        "name": "Intel",
+        "city": "Santa Clara",
+        "state": "CA",
+        "city_fullname": "Santa Clara, CA"
+    },
+    "47": {
+        "name": "Prudential Financial",
+        "city": "Newark",
+        "state": "NJ",
+        "city_fullname": "Newark, NJ"
+    },
+    "48": {
+        "name": "Albertsons Cos.",
+        "city": "Boise",
+        "state": "ID",
+        "city_fullname": "Boise, ID"
+    },
+    "49": {
+        "name": "United Technologies",
+        "city": "Farmington",
+        "state": "CT",
+        "city_fullname": "Farmington, CT"
+    },
+    "50": {
+        "name": "Marathon Petroleum",
+        "city": "Findlay",
+        "state": "OH",
+        "city_fullname": "Findlay, OH"
+    },
+    "51": {
+        "name": "Disney",
+        "city": "Burbank",
+        "state": "CA",
+        "city_fullname": "Burbank, CA"
+    },
+    "52": {
+        "name": "Humana",
+        "city": "Louisville",
+        "state": "KY",
+        "city_fullname": "Louisville, KY"
+    },
+    "53": {
+        "name": "Pfizer",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "54": {
+        "name": "AIG",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "55": {
+        "name": "Lockheed Martin",
+        "city": "Bethesda",
+        "state": "MD",
+        "city_fullname": "Bethesda, MD"
+    },
+    "56": {
+        "name": "Sysco",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "57": {
+        "name": "FedEx",
+        "city": "Memphis",
+        "state": "TN",
+        "city_fullname": "Memphis, TN"
+    },
+    "58": {
+        "name": "Hewlett Packard Enterprise",
+        "city": "Palo Alto",
+        "state": "CA",
+        "city_fullname": "Palo Alto, CA"
+    },
+    "59": {
+        "name": "Cisco Systems",
+        "city": "San Jose",
+        "state": "CA",
+        "city_fullname": "San Jose, CA"
+    },
+    "60": {
+        "name": "HP",
+        "city": "Palo Alto",
+        "state": "CA",
+        "city_fullname": "Palo Alto, CA"
+    },
+    "61": {
+        "name": "Dow Chemical",
+        "city": "Midland",
+        "state": "MI",
+        "city_fullname": "Midland, MI"
+    },
+    "62": {
+        "name": "HCA Holdings",
+        "city": "Nashville",
+        "state": "TN",
+        "city_fullname": "Nashville, TN"
+    },
+    "63": {
+        "name": "Coca-Cola",
+        "city": "Atlanta",
+        "state": "GA",
+        "city_fullname": "Atlanta, GA"
+    },
+    "64": {
+        "name": "New York Life Insurance",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "65": {
+        "name": "Centene",
+        "city": "St. Louis",
+        "state": "MO",
+        "city_fullname": "St. Louis, MO"
+    },
+    "66": {
+        "name": "American Airlines Group",
+        "city": "Fort Worth",
+        "state": "TX",
+        "city_fullname": "Fort Worth, TX"
+    },
+    "67": {
+        "name": "Nationwide",
+        "city": "Columbus",
+        "state": "OH",
+        "city_fullname": "Columbus, OH"
+    },
+    "68": {
+        "name": "Merck",
+        "city": "Kenilworth",
+        "state": "NJ",
+        "city_fullname": "Kenilworth, NJ"
+    },
+    "69": {
+        "name": "Cigna",
+        "city": "Bloomfield",
+        "state": "CT",
+        "city_fullname": "Bloomfield, CT"
+    },
+    "70": {
+        "name": "Delta Air Lines",
+        "city": "Atlanta",
+        "state": "GA",
+        "city_fullname": "Atlanta, GA"
+    },
+    "71": {
+        "name": "Best Buy",
+        "city": "Richfield",
+        "state": "MN",
+        "city_fullname": "Richfield, MN"
+    },
+    "72": {
+        "name": "Honeywell International",
+        "city": "Morris Plains",
+        "state": "NJ",
+        "city_fullname": "Morris Plains, NJ"
+    },
+    "73": {
+        "name": "Caterpillar",
+        "city": "Peoria",
+        "state": "IL",
+        "city_fullname": "Peoria, IL"
+    },
+    "74": {
+        "name": "Liberty Mutual Insurance Group",
+        "city": "Boston",
+        "state": "MA",
+        "city_fullname": "Boston, MA"
+    },
+    "75": {
+        "name": "Morgan Stanley",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "76": {
+        "name": "Massachusetts Mutual Life Insurance",
+        "city": "Springfield",
+        "state": "MA",
+        "city_fullname": "Springfield, MA"
+    },
+    "77": {
+        "name": "Goldman Sachs Group",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "78": {
+        "name": "Energy Transfer Equity",
+        "city": "Dallas",
+        "state": "TX",
+        "city_fullname": "Dallas, TX"
+    },
+    "79": {
+        "name": "TIAA",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "80": {
+        "name": "Oracle",
+        "city": "Redwood City",
+        "state": "CA",
+        "city_fullname": "Redwood City, CA"
+    },
+    "81": {
+        "name": "Tyson Foods",
+        "city": "Springdale",
+        "state": "AR",
+        "city_fullname": "Springdale, AR"
+    },
+    "82": {
+        "name": "United Continental Holdings",
+        "city": "Chicago",
+        "state": "IL",
+        "city_fullname": "Chicago, IL"
+    },
+    "83": {
+        "name": "Allstate",
+        "city": "Northbrook",
+        "state": "IL",
+        "city_fullname": "Northbrook, IL"
+    },
+    "84": {
+        "name": "Publix Super Markets",
+        "city": "Lakeland",
+        "state": "FL",
+        "city_fullname": "Lakeland, FL"
+    },
+    "85": {
+        "name": "American Express",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "86": {
+        "name": "TJX",
+        "city": "Framingham",
+        "state": "MA",
+        "city_fullname": "Framingham, MA"
+    },
+    "87": {
+        "name": "Nike",
+        "city": "Beaverton",
+        "state": "OR",
+        "city_fullname": "Beaverton, OR"
+    },
+    "88": {
+        "name": "Exelon",
+        "city": "Chicago",
+        "state": "IL",
+        "city_fullname": "Chicago, IL"
+    },
+    "89": {
+        "name": "General Dynamics",
+        "city": "Falls Church",
+        "state": "VA",
+        "city_fullname": "Falls Church, VA"
+    },
+    "90": {
+        "name": "Rite Aid",
+        "city": "Camp Hill",
+        "state": "PA",
+        "city_fullname": "Camp Hill, PA"
+    },
+    "91": {
+        "name": "Gilead Sciences",
+        "city": "Foster City",
+        "state": "CA",
+        "city_fullname": "Foster City, CA"
+    },
+    "92": {
+        "name": "CHS",
+        "city": "Inver Grove Heights",
+        "state": "MN",
+        "city_fullname": "Inver Grove Heights, MN"
+    },
+    "93": {
+        "name": "3M",
+        "city": "St. Paul",
+        "state": "MN",
+        "city_fullname": "St. Paul, MN"
+    },
+    "94": {
+        "name": "Time Warner",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "95": {
+        "name": "Charter Communications",
+        "city": "Stamford",
+        "state": "CT",
+        "city_fullname": "Stamford, CT"
+    },
+    "96": {
+        "name": "Northwestern Mutual",
+        "city": "Milwaukee",
+        "state": "WI",
+        "city_fullname": "Milwaukee, WI"
+    },
+    "97": {
+        "name": "Facebook",
+        "city": "Menlo Park",
+        "state": "CA",
+        "city_fullname": "Menlo Park, CA"
+    },
+    "98": {
+        "name": "Travelers Cos.",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "99": {
+        "name": "Capital One Financial",
+        "city": "McLean",
+        "state": "VA",
+        "city_fullname": "McLean, VA"
+    },
+    "100": {
+        "name": "Twenty-First Century Fox",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "101": {
+        "name": "USAA",
+        "city": "San Antonio",
+        "state": "TX",
+        "city_fullname": "San Antonio, TX"
+    },
+    "102": {
+        "name": "World Fuel Services",
+        "city": "Miami",
+        "state": "FL",
+        "city_fullname": "Miami, FL"
+    },
+    "103": {
+        "name": "Philip Morris International",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "104": {
+        "name": "Deere",
+        "city": "Moline",
+        "state": "IL",
+        "city_fullname": "Moline, IL"
+    },
+    "105": {
+        "name": "Kraft Heinz",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "city_fullname": "Pittsburgh, PA"
+    },
+    "106": {
+        "name": "Tech Data",
+        "city": "Clearwater",
+        "state": "FL",
+        "city_fullname": "Clearwater, FL"
+    },
+    "107": {
+        "name": "Avnet",
+        "city": "Phoenix",
+        "state": "AZ",
+        "city_fullname": "Phoenix, AZ"
+    },
+    "108": {
+        "name": "Mondelez International",
+        "city": "Deerfield",
+        "state": "IL",
+        "city_fullname": "Deerfield, IL"
+    },
+    "109": {
+        "name": "Macy\u2019s",
+        "city": "Cincinnati",
+        "state": "OH",
+        "city_fullname": "Cincinnati, OH"
+    },
+    "110": {
+        "name": "AbbVie",
+        "city": "North Chicago",
+        "state": "IL",
+        "city_fullname": "North Chicago, IL"
+    },
+    "111": {
+        "name": "McDonald\u2019s",
+        "city": "Oak Brook",
+        "state": "IL",
+        "city_fullname": "Oak Brook, IL"
+    },
+    "112": {
+        "name": "DuPont",
+        "city": "Wilmington",
+        "state": "DE",
+        "city_fullname": "Wilmington, DE"
+    },
+    "113": {
+        "name": "Northrop Grumman",
+        "city": "Falls Church",
+        "state": "VA",
+        "city_fullname": "Falls Church, VA"
+    },
+    "114": {
+        "name": "ConocoPhillips",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "115": {
+        "name": "Raytheon",
+        "city": "Waltham",
+        "state": "MA",
+        "city_fullname": "Waltham, MA"
+    },
+    "116": {
+        "name": "Tesoro",
+        "city": "San Antonio",
+        "state": "TX",
+        "city_fullname": "San Antonio, TX"
+    },
+    "117": {
+        "name": "Arrow Electronics",
+        "city": "Centennial",
+        "state": "CO",
+        "city_fullname": "Centennial, CO"
+    },
+    "118": {
+        "name": "Qualcomm",
+        "city": "San Diego",
+        "state": "CA",
+        "city_fullname": "San Diego, CA"
+    },
+    "119": {
+        "name": "Progressive",
+        "city": "Mayfield Village",
+        "state": "OH",
+        "city_fullname": "Mayfield Village, OH"
+    },
+    "120": {
+        "name": "Duke Energy",
+        "city": "Charlotte",
+        "state": "NC",
+        "city_fullname": "Charlotte, NC"
+    },
+    "121": {
+        "name": "Enterprise Products Partners",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "122": {
+        "name": "Amgen",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "city_fullname": "Thousand Oaks, CA"
+    },
+    "123": {
+        "name": "US Foods Holding",
+        "city": "Rosemont",
+        "state": "IL",
+        "city_fullname": "Rosemont, IL"
+    },
+    "124": {
+        "name": "U.S. Bancorp",
+        "city": "Minneapolis",
+        "state": "MN",
+        "city_fullname": "Minneapolis, MN"
+    },
+    "125": {
+        "name": "Aflac",
+        "city": "Columbus",
+        "state": "GA",
+        "city_fullname": "Columbus, GA"
+    },
+    "126": {
+        "name": "Sears Holdings",
+        "city": "Hoffman Estates",
+        "state": "IL",
+        "city_fullname": "Hoffman Estates, IL"
+    },
+    "127": {
+        "name": "Dollar General",
+        "city": "Goodlettsville",
+        "state": "TN",
+        "city_fullname": "Goodlettsville, TN"
+    },
+    "128": {
+        "name": "AutoNation",
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "city_fullname": "Fort Lauderdale, FL"
+    },
+    "129": {
+        "name": "Community Health Systems",
+        "city": "Franklin",
+        "state": "TN",
+        "city_fullname": "Franklin, TN"
+    },
+    "130": {
+        "name": "Starbucks",
+        "city": "Seattle",
+        "state": "WA",
+        "city_fullname": "Seattle, WA"
+    },
+    "131": {
+        "name": "Eli Lilly",
+        "city": "Indianapolis",
+        "state": "IN",
+        "city_fullname": "Indianapolis, IN"
+    },
+    "132": {
+        "name": "International Paper",
+        "city": "Memphis",
+        "state": "TN",
+        "city_fullname": "Memphis, TN"
+    },
+    "133": {
+        "name": "Tenet Healthcare",
+        "city": "Dallas",
+        "state": "TX",
+        "city_fullname": "Dallas, TX"
+    },
+    "134": {
+        "name": "Abbott Laboratories",
+        "city": "Abbott Park",
+        "state": "IL",
+        "city_fullname": "Abbott Park, IL"
+    },
+    "135": {
+        "name": "Dollar Tree",
+        "city": "Chesapeake",
+        "state": "VA",
+        "city_fullname": "Chesapeake, VA"
+    },
+    "136": {
+        "name": "Whirlpool",
+        "city": "Benton Harbor",
+        "state": "MI",
+        "city_fullname": "Benton Harbor, MI"
+    },
+    "137": {
+        "name": "Southwest Airlines",
+        "city": "Dallas",
+        "state": "TX",
+        "city_fullname": "Dallas, TX"
+    },
+    "138": {
+        "name": "Emerson Electric",
+        "city": "St. Louis",
+        "state": "MO",
+        "city_fullname": "St. Louis, MO"
+    },
+    "139": {
+        "name": "Staples",
+        "city": "Framingham",
+        "state": "MA",
+        "city_fullname": "Framingham, MA"
+    },
+    "140": {
+        "name": "Plains GP Holdings",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "141": {
+        "name": "Penske Automotive Group",
+        "city": "Bloomfield Hills",
+        "state": "MI",
+        "city_fullname": "Bloomfield Hills, MI"
+    },
+    "142": {
+        "name": "Union Pacific",
+        "city": "Omaha",
+        "state": "NE",
+        "city_fullname": "Omaha, NE"
+    },
+    "143": {
+        "name": "Danaher",
+        "city": "Washington",
+        "state": "DC",
+        "city_fullname": "Washington, DC"
+    },
+    "144": {
+        "name": "Southern",
+        "city": "Atlanta",
+        "state": "GA",
+        "city_fullname": "Atlanta, GA"
+    },
+    "145": {
+        "name": "ManpowerGroup",
+        "city": "Milwaukee",
+        "state": "WI",
+        "city_fullname": "Milwaukee, WI"
+    },
+    "146": {
+        "name": "Bristol-Myers Squibb",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "147": {
+        "name": "Altria Group",
+        "city": "Richmond",
+        "state": "VA",
+        "city_fullname": "Richmond, VA"
+    },
+    "148": {
+        "name": "Fluor",
+        "city": "Irving",
+        "state": "TX",
+        "city_fullname": "Irving, TX"
+    },
+    "149": {
+        "name": "Kohl\u2019s",
+        "city": "Menomonee Falls",
+        "state": "WI",
+        "city_fullname": "Menomonee Falls, WI"
+    },
+    "150": {
+        "name": "Lear",
+        "city": "Southfield",
+        "state": "MI",
+        "city_fullname": "Southfield, MI"
+    },
+    "151": {
+        "name": "Jabil Circuit",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "city_fullname": "St. Petersburg, FL"
+    },
+    "152": {
+        "name": "Hartford Financial Services Group",
+        "city": "Hartford",
+        "state": "CT",
+        "city_fullname": "Hartford, CT"
+    },
+    "153": {
+        "name": "Thermo Fisher Scientific",
+        "city": "Waltham",
+        "state": "MA",
+        "city_fullname": "Waltham, MA"
+    },
+    "154": {
+        "name": "Kimberly-Clark",
+        "city": "Irving",
+        "state": "TX",
+        "city_fullname": "Irving, TX"
+    },
+    "155": {
+        "name": "Molina Healthcare",
+        "city": "Long Beach",
+        "state": "CA",
+        "city_fullname": "Long Beach, CA"
+    },
+    "156": {
+        "name": "PG&E Corp.",
+        "city": "San Francisco",
+        "state": "CA",
+        "city_fullname": "San Francisco, CA"
+    },
+    "157": {
+        "name": "Supervalu",
+        "city": "Eden Prairie",
+        "state": "MN",
+        "city_fullname": "Eden Prairie, MN"
+    },
+    "158": {
+        "name": "Cummins",
+        "city": "Columbus",
+        "state": "IN",
+        "city_fullname": "Columbus, IN"
+    },
+    "159": {
+        "name": "CenturyLink",
+        "city": "Monroe",
+        "state": "LA",
+        "city_fullname": "Monroe, LA"
+    },
+    "160": {
+        "name": "AECOM",
+        "city": "Los Angeles",
+        "state": "CA",
+        "city_fullname": "Los Angeles, CA"
+    },
+    "161": {
+        "name": "Xerox",
+        "city": "Norwalk",
+        "state": "CT",
+        "city_fullname": "Norwalk, CT"
+    },
+    "162": {
+        "name": "Marriott International",
+        "city": "Bethesda",
+        "state": "MD",
+        "city_fullname": "Bethesda, MD"
+    },
+    "163": {
+        "name": "Paccar",
+        "city": "Bellevue",
+        "state": "WA",
+        "city_fullname": "Bellevue, WA"
+    },
+    "164": {
+        "name": "General Mills",
+        "city": "Minneapolis",
+        "state": "MN",
+        "city_fullname": "Minneapolis, MN"
+    },
+    "165": {
+        "name": "PNC Financial Services Group",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "city_fullname": "Pittsburgh, PA"
+    },
+    "166": {
+        "name": "American Electric Power",
+        "city": "Columbus",
+        "state": "OH",
+        "city_fullname": "Columbus, OH"
+    },
+    "167": {
+        "name": "Icahn Enterprises",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "168": {
+        "name": "Nucor",
+        "city": "Charlotte",
+        "state": "NC",
+        "city_fullname": "Charlotte, NC"
+    },
+    "169": {
+        "name": "NextEra Energy",
+        "city": "Juno Beach",
+        "state": "FL",
+        "city_fullname": "Juno Beach, FL"
+    },
+    "170": {
+        "name": "Performance Food Group",
+        "city": "Richmond",
+        "state": "VA",
+        "city_fullname": "Richmond, VA"
+    },
+    "171": {
+        "name": "PBF Energy",
+        "city": "Parsippany",
+        "state": "NJ",
+        "city_fullname": "Parsippany, NJ"
+    },
+    "172": {
+        "name": "Halliburton",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "173": {
+        "name": "CarMax",
+        "city": "Richmond",
+        "state": "VA",
+        "city_fullname": "Richmond, VA"
+    },
+    "174": {
+        "name": "Freeport-McMoRan",
+        "city": "Phoenix",
+        "state": "AZ",
+        "city_fullname": "Phoenix, AZ"
+    },
+    "175": {
+        "name": "Whole Foods Market",
+        "city": "Austin",
+        "state": "TX",
+        "city_fullname": "Austin, TX"
+    },
+    "176": {
+        "name": "Bank of New York Mellon",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "177": {
+        "name": "Gap",
+        "city": "San Francisco",
+        "state": "CA",
+        "city_fullname": "San Francisco, CA"
+    },
+    "178": {
+        "name": "Omnicom Group",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "179": {
+        "name": "Genuine Parts",
+        "city": "Atlanta",
+        "state": "GA",
+        "city_fullname": "Atlanta, GA"
+    },
+    "180": {
+        "name": "DaVita",
+        "city": "Denver",
+        "state": "CO",
+        "city_fullname": "Denver, CO"
+    },
+    "181": {
+        "name": "Colgate-Palmolive",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "182": {
+        "name": "PPG Industries",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "city_fullname": "Pittsburgh, PA"
+    },
+    "183": {
+        "name": "Goodyear Tire & Rubber",
+        "city": "Akron",
+        "state": "OH",
+        "city_fullname": "Akron, OH"
+    },
+    "184": {
+        "name": "Synchrony Financial",
+        "city": "Stamford",
+        "state": "CT",
+        "city_fullname": "Stamford, CT"
+    },
+    "185": {
+        "name": "DISH Network",
+        "city": "Englewood",
+        "state": "CO",
+        "city_fullname": "Englewood, CO"
+    },
+    "186": {
+        "name": "Visa",
+        "city": "Foster City",
+        "state": "CA",
+        "city_fullname": "Foster City, CA"
+    },
+    "187": {
+        "name": "Nordstrom",
+        "city": "Seattle",
+        "state": "WA",
+        "city_fullname": "Seattle, WA"
+    },
+    "188": {
+        "name": "INTL FCStone",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "189": {
+        "name": "WestRock",
+        "city": "Richmond",
+        "state": "VA",
+        "city_fullname": "Richmond, VA"
+    },
+    "190": {
+        "name": "XPO Logistics",
+        "city": "Greenwich",
+        "state": "CT",
+        "city_fullname": "Greenwich, CT"
+    },
+    "191": {
+        "name": "Aramark",
+        "city": "Philadelphia",
+        "state": "PA",
+        "city_fullname": "Philadelphia, PA"
+    },
+    "192": {
+        "name": "CBS",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "193": {
+        "name": "AES",
+        "city": "Arlington",
+        "state": "VA",
+        "city_fullname": "Arlington, VA"
+    },
+    "194": {
+        "name": "WellCare Health Plans",
+        "city": "Tampa",
+        "state": "FL",
+        "city_fullname": "Tampa, FL"
+    },
+    "195": {
+        "name": "FirstEnergy",
+        "city": "Akron",
+        "state": "OH",
+        "city_fullname": "Akron, OH"
+    },
+    "196": {
+        "name": "Conagra Brands",
+        "city": "Chicago",
+        "state": "IL",
+        "city_fullname": "Chicago, IL"
+    },
+    "197": {
+        "name": "Synnex",
+        "city": "Fremont",
+        "state": "CA",
+        "city_fullname": "Fremont, CA"
+    },
+    "198": {
+        "name": "CDW",
+        "city": "Lincolnshire",
+        "state": "IL",
+        "city_fullname": "Lincolnshire, IL"
+    },
+    "199": {
+        "name": "Textron",
+        "city": "Providence",
+        "state": "RI",
+        "city_fullname": "Providence, RI"
+    },
+    "200": {
+        "name": "Waste Management",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "201": {
+        "name": "Illinois Tool Works",
+        "city": "Glenview",
+        "state": "IL",
+        "city_fullname": "Glenview, IL"
+    },
+    "202": {
+        "name": "Office Depot",
+        "city": "Boca Raton",
+        "state": "FL",
+        "city_fullname": "Boca Raton, FL"
+    },
+    "203": {
+        "name": "Monsanto",
+        "city": "St. Louis",
+        "state": "MO",
+        "city_fullname": "St. Louis, MO"
+    },
+    "204": {
+        "name": "Cognizant Technology Solutions",
+        "city": "Teaneck",
+        "state": "NJ",
+        "city_fullname": "Teaneck, NJ"
+    },
+    "205": {
+        "name": "Texas Instruments",
+        "city": "Dallas",
+        "state": "TX",
+        "city_fullname": "Dallas, TX"
+    },
+    "206": {
+        "name": "Lincoln National",
+        "city": "Radnor",
+        "state": "PA",
+        "city_fullname": "Radnor, PA"
+    },
+    "207": {
+        "name": "Newell Brands",
+        "city": "Hoboken",
+        "state": "NJ",
+        "city_fullname": "Hoboken, NJ"
+    },
+    "208": {
+        "name": "Land O\u2019Lakes",
+        "city": "Arden Hills",
+        "state": "MN",
+        "city_fullname": "Arden Hills, MN"
+    },
+    "209": {
+        "name": "Marsh & McLennan",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "210": {
+        "name": "Ecolab",
+        "city": "St. Paul",
+        "state": "MN",
+        "city_fullname": "St. Paul, MN"
+    },
+    "211": {
+        "name": "C.H. Robinson Worldwide",
+        "city": "Eden Prairie",
+        "state": "MN",
+        "city_fullname": "Eden Prairie, MN"
+    },
+    "212": {
+        "name": "Loews",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "213": {
+        "name": "CBRE Group",
+        "city": "Los Angeles",
+        "state": "CA",
+        "city_fullname": "Los Angeles, CA"
+    },
+    "214": {
+        "name": "Kinder Morgan",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "215": {
+        "name": "Kellogg",
+        "city": "Battle Creek",
+        "state": "MI",
+        "city_fullname": "Battle Creek, MI"
+    },
+    "216": {
+        "name": "Western Digital",
+        "city": "Irvine",
+        "state": "CA",
+        "city_fullname": "Irvine, CA"
+    },
+    "217": {
+        "name": "Guardian Life Ins. Co. of America",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "218": {
+        "name": "Ross Stores",
+        "city": "Dublin",
+        "state": "CA",
+        "city_fullname": "Dublin, CA"
+    },
+    "219": {
+        "name": "L Brands",
+        "city": "Columbus",
+        "state": "OH",
+        "city_fullname": "Columbus, OH"
+    },
+    "220": {
+        "name": "J.C. Penney",
+        "city": "Plano",
+        "state": "TX",
+        "city_fullname": "Plano, TX"
+    },
+    "221": {
+        "name": "Farmers Insurance Exchange",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "city_fullname": "Woodland Hills, CA"
+    },
+    "222": {
+        "name": "Reynolds American",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "city_fullname": "Winston-Salem, NC"
+    },
+    "223": {
+        "name": "Viacom",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "224": {
+        "name": "Becton Dickinson",
+        "city": "Franklin Lakes",
+        "state": "NJ",
+        "city_fullname": "Franklin Lakes, NJ"
+    },
+    "225": {
+        "name": "Micron Technology",
+        "city": "Boise",
+        "state": "ID",
+        "city_fullname": "Boise, ID"
+    },
+    "226": {
+        "name": "Principal Financial",
+        "city": "Des Moines",
+        "state": "IA",
+        "city_fullname": "Des Moines, IA"
+    },
+    "227": {
+        "name": "Arconic",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "228": {
+        "name": "NRG Energy",
+        "city": "Princeton",
+        "state": "NJ",
+        "city_fullname": "Princeton, NJ"
+    },
+    "229": {
+        "name": "VF",
+        "city": "Greensboro",
+        "state": "NC",
+        "city_fullname": "Greensboro, NC"
+    },
+    "230": {
+        "name": "Devon Energy",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "city_fullname": "Oklahoma City, OK"
+    },
+    "231": {
+        "name": "D.R. Horton",
+        "city": "Fort Worth",
+        "state": "TX",
+        "city_fullname": "Fort Worth, TX"
+    },
+    "232": {
+        "name": "Bed Bath & Beyond",
+        "city": "Union",
+        "state": "NJ",
+        "city_fullname": "Union, NJ"
+    },
+    "233": {
+        "name": "Consolidated Edison",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "234": {
+        "name": "Edison International",
+        "city": "Rosemead",
+        "state": "CA",
+        "city_fullname": "Rosemead, CA"
+    },
+    "235": {
+        "name": "Sherwin-Williams",
+        "city": "Cleveland",
+        "state": "OH",
+        "city_fullname": "Cleveland, OH"
+    },
+    "236": {
+        "name": "NGL Energy Partners",
+        "city": "Tulsa",
+        "state": "OK",
+        "city_fullname": "Tulsa, OK"
+    },
+    "237": {
+        "name": "Dominion Energy",
+        "city": "Richmond",
+        "state": "VA",
+        "city_fullname": "Richmond, VA"
+    },
+    "238": {
+        "name": "Ameriprise Financial",
+        "city": "Minneapolis",
+        "state": "MN",
+        "city_fullname": "Minneapolis, MN"
+    },
+    "239": {
+        "name": "ADP",
+        "city": "Roseland",
+        "state": "NJ",
+        "city_fullname": "Roseland, NJ"
+    },
+    "240": {
+        "name": "Hilton Worldwide Holdings",
+        "city": "McLean",
+        "state": "VA",
+        "city_fullname": "McLean, VA"
+    },
+    "241": {
+        "name": "First Data",
+        "city": "Atlanta",
+        "state": "GA",
+        "city_fullname": "Atlanta, GA"
+    },
+    "242": {
+        "name": "Henry Schein",
+        "city": "Melville",
+        "state": "NY",
+        "city_fullname": "Melville, NY"
+    },
+    "243": {
+        "name": "Toys \u201cR\u201d Us",
+        "city": "Wayne",
+        "state": "NJ",
+        "city_fullname": "Wayne, NJ"
+    },
+    "244": {
+        "name": "BB&T Corp.",
+        "city": "Winston-Salem",
+        "state": "NC",
+        "city_fullname": "Winston-Salem, NC"
+    },
+    "245": {
+        "name": "Reinsurance Group of America",
+        "city": "Chesterfield",
+        "state": "MO",
+        "city_fullname": "Chesterfield, MO"
+    },
+    "246": {
+        "name": "Core-Mark Holding",
+        "city": "South San Francisco",
+        "state": "CA",
+        "city_fullname": "South San Francisco, CA"
+    },
+    "247": {
+        "name": "Biogen",
+        "city": "Cambridge",
+        "state": "MA",
+        "city_fullname": "Cambridge, MA"
+    },
+    "248": {
+        "name": "Las Vegas Sands",
+        "city": "Las Vegas",
+        "state": "NV",
+        "city_fullname": "Las Vegas, NV"
+    },
+    "249": {
+        "name": "Stanley Black & Decker",
+        "city": "New Britain",
+        "state": "CT",
+        "city_fullname": "New Britain, CT"
+    },
+    "250": {
+        "name": "Parker-Hannifin",
+        "city": "Cleveland",
+        "state": "OH",
+        "city_fullname": "Cleveland, OH"
+    },
+    "251": {
+        "name": "Stryker",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "city_fullname": "Kalamazoo, MI"
+    },
+    "252": {
+        "name": "Estee Lauder",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "253": {
+        "name": "Celgene",
+        "city": "Summit",
+        "state": "NJ",
+        "city_fullname": "Summit, NJ"
+    },
+    "254": {
+        "name": "BlackRock",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "255": {
+        "name": "Xcel Energy",
+        "city": "Minneapolis",
+        "state": "MN",
+        "city_fullname": "Minneapolis, MN"
+    },
+    "256": {
+        "name": "CSX",
+        "city": "Jacksonville",
+        "state": "FL",
+        "city_fullname": "Jacksonville, FL"
+    },
+    "257": {
+        "name": "Unum Group",
+        "city": "Chattanooga",
+        "state": "TN",
+        "city_fullname": "Chattanooga, TN"
+    },
+    "258": {
+        "name": "Jacobs Engineering Group",
+        "city": "Dallas",
+        "state": "TX",
+        "city_fullname": "Dallas, TX"
+    },
+    "259": {
+        "name": "Lennar",
+        "city": "Miami",
+        "state": "FL",
+        "city_fullname": "Miami, FL"
+    },
+    "260": {
+        "name": "Group 1 Automotive",
+        "city": "Houston",
+        "state": "TX",
+        "city_fullname": "Houston, TX"
+    },
+    "261": {
+        "name": "Leucadia National",
+        "city": "New York",
+        "state": "NY",
+        "city_fullname": "New York, NY"
+    },
+    "262": {
+        "name": "Entergy",
+        "city": "New Orleans",
+        "state": "LA",
+        "city_fullname": "New Orleans, LA"
+    }
+}

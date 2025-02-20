@@ -5,7 +5,6 @@
 *.png
 __pycache__
 
-physics_of_forgetting/data
 physics_of_forgetting/model
 physics_of_forgetting/wandb
 shell/

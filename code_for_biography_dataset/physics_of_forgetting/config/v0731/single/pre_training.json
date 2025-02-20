@@ -21,67 +21,6 @@
       "output_dir": "./model/gpt-neox/v_0720/single/task_0",
       "max_steps": 80000,
       "warmup_steps": 1000
-    },
-    "task_1": {
-      "person_index_info_list": [
-        {
-          "start": 100000,
-          "end": 120000
-        }
-      ],
-      "previous_output_dir": "./model/gpt-neox/v_0720/single/task_0",
-      "output_dir": "./model/gpt-neox/v_0720/single/task_1",
-      "max_steps": 16000,
-      "warmup_steps": 200
-    },
-    "task_2": {
-      "person_index_info_list": [
-        {
-          "start": 120000,
-          "end": 140000
-        }
-      ],
-      "previous_output_dir": "./model/gpt-neox/v_0720/single/task_1",
-      "output_dir": "./model/gpt-neox/v_0720/single/task_2",
-      "all_qa_data_path": "./data/processed_0720_v0730/qa/all.json",
-      "max_steps": 16000,
-      "warmup_steps": 200
-    },
-    "task_3": {
-      "person_index_info_list": [
-        {
-          "start": 140000,
-          "end": 160000
-        }
-      ],
-      "previous_output_dir": "./model/gpt-neox/v_0720/single/task_2",
-      "output_dir": "./model/gpt-neox/v_0720/single/task_3",
-      "max_steps": 16000,
-      "warmup_steps": 200
-    },
-    "task_4": {
-      "person_index_info_list": [
-        {
-          "start": 160000,
-          "end": 180000
-        }
-      ],
-      "previous_output_dir": "./model/gpt-neox/v_0720/single/task_3",
-      "output_dir": "./model/gpt-neox/v_0720/single/task_4",
-      "max_steps": 16000,
-      "warmup_steps": 200
-    },
-    "task_5": {
-      "person_index_info_list": [
-        {
-          "start": 180000,
-          "end": 200000
-        }
-      ],
-      "previous_output_dir": "./model/gpt-neox/v_0720/single/task_4",
-      "output_dir": "./model/gpt-neox/v_0720/single/task_5",
-      "max_steps": 16000,
-      "warmup_steps": 200
     }
   }
 }

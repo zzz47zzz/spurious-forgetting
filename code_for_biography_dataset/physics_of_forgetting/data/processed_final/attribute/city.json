@@ -1,0 +1,1002 @@
+{
+    "0": {
+        "city": "New York",
+        "state": "NY",
+        "fullname": "New York, NY"
+    },
+    "1": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "fullname": "Los Angeles, CA"
+    },
+    "2": {
+        "city": "Chicago",
+        "state": "IL",
+        "fullname": "Chicago, IL"
+    },
+    "3": {
+        "city": "Houston",
+        "state": "TX",
+        "fullname": "Houston, TX"
+    },
+    "4": {
+        "city": "Phoenix",
+        "state": "AZ",
+        "fullname": "Phoenix, AZ"
+    },
+    "5": {
+        "city": "Philadelphia",
+        "state": "PA",
+        "fullname": "Philadelphia, PA"
+    },
+    "6": {
+        "city": "San Antonio",
+        "state": "TX",
+        "fullname": "San Antonio, TX"
+    },
+    "7": {
+        "city": "San Diego",
+        "state": "CA",
+        "fullname": "San Diego, CA"
+    },
+    "8": {
+        "city": "Dallas",
+        "state": "TX",
+        "fullname": "Dallas, TX"
+    },
+    "9": {
+        "city": "Jacksonville",
+        "state": "FL",
+        "fullname": "Jacksonville, FL"
+    },
+    "10": {
+        "city": "Austin",
+        "state": "TX",
+        "fullname": "Austin, TX"
+    },
+    "11": {
+        "city": "Fort Worth",
+        "state": "TX",
+        "fullname": "Fort Worth, TX"
+    },
+    "12": {
+        "city": "San Jose",
+        "state": "CA",
+        "fullname": "San Jose, CA"
+    },
+    "13": {
+        "city": "Columbus",
+        "state": "OH",
+        "fullname": "Columbus, OH"
+    },
+    "14": {
+        "city": "Charlotte",
+        "state": "NC",
+        "fullname": "Charlotte, NC"
+    },
+    "15": {
+        "city": "Indianapolis",
+        "state": "IN",
+        "fullname": "Indianapolis, IN"
+    },
+    "16": {
+        "city": "San Francisco",
+        "state": "CA",
+        "fullname": "San Francisco, CA"
+    },
+    "17": {
+        "city": "Seattle",
+        "state": "WA",
+        "fullname": "Seattle, WA"
+    },
+    "18": {
+        "city": "Denver",
+        "state": "CO",
+        "fullname": "Denver, CO"
+    },
+    "19": {
+        "city": "Oklahoma City",
+        "state": "OK",
+        "fullname": "Oklahoma City, OK"
+    },
+    "20": {
+        "city": "Nashville",
+        "state": "TN",
+        "fullname": "Nashville, TN"
+    },
+    "21": {
+        "city": "Washington",
+        "state": "DC",
+        "fullname": "Washington, DC"
+    },
+    "22": {
+        "city": "El Paso",
+        "state": "TX",
+        "fullname": "El Paso, TX"
+    },
+    "23": {
+        "city": "Las Vegas",
+        "state": "NV",
+        "fullname": "Las Vegas, NV"
+    },
+    "24": {
+        "city": "Boston",
+        "state": "MA",
+        "fullname": "Boston, MA"
+    },
+    "25": {
+        "city": "Detroit",
+        "state": "MI",
+        "fullname": "Detroit, MI"
+    },
+    "26": {
+        "city": "Portland",
+        "state": "OR",
+        "fullname": "Portland, OR"
+    },
+    "27": {
+        "city": "Louisville",
+        "state": "KY",
+        "fullname": "Louisville, KY"
+    },
+    "28": {
+        "city": "Memphis",
+        "state": "TN",
+        "fullname": "Memphis, TN"
+    },
+    "29": {
+        "city": "Baltimore",
+        "state": "MD",
+        "fullname": "Baltimore, MD"
+    },
+    "30": {
+        "city": "Milwaukee",
+        "state": "WI",
+        "fullname": "Milwaukee, WI"
+    },
+    "31": {
+        "city": "Albuquerque",
+        "state": "NM",
+        "fullname": "Albuquerque, NM"
+    },
+    "32": {
+        "city": "Tucson",
+        "state": "AZ",
+        "fullname": "Tucson, AZ"
+    },
+    "33": {
+        "city": "Fresno",
+        "state": "CA",
+        "fullname": "Fresno, CA"
+    },
+    "34": {
+        "city": "Sacramento",
+        "state": "CA",
+        "fullname": "Sacramento, CA"
+    },
+    "35": {
+        "city": "Mesa",
+        "state": "AZ",
+        "fullname": "Mesa, AZ"
+    },
+    "36": {
+        "city": "Atlanta",
+        "state": "GA",
+        "fullname": "Atlanta, GA"
+    },
+    "37": {
+        "city": "Kansas City",
+        "state": "MO",
+        "fullname": "Kansas City, MO"
+    },
+    "38": {
+        "city": "Colorado Springs",
+        "state": "CO",
+        "fullname": "Colorado Springs, CO"
+    },
+    "39": {
+        "city": "Omaha",
+        "state": "NE",
+        "fullname": "Omaha, NE"
+    },
+    "40": {
+        "city": "Raleigh",
+        "state": "NC",
+        "fullname": "Raleigh, NC"
+    },
+    "41": {
+        "city": "Miami",
+        "state": "FL",
+        "fullname": "Miami, FL"
+    },
+    "42": {
+        "city": "Virginia Beach",
+        "state": "VA",
+        "fullname": "Virginia Beach, VA"
+    },
+    "43": {
+        "city": "Long Beach",
+        "state": "CA",
+        "fullname": "Long Beach, CA"
+    },
+    "44": {
+        "city": "Oakland",
+        "state": "CA",
+        "fullname": "Oakland, CA"
+    },
+    "45": {
+        "city": "Minneapolis",
+        "state": "MN",
+        "fullname": "Minneapolis, MN"
+    },
+    "46": {
+        "city": "Bakersfield",
+        "state": "CA",
+        "fullname": "Bakersfield, CA"
+    },
+    "47": {
+        "city": "Tulsa",
+        "state": "OK",
+        "fullname": "Tulsa, OK"
+    },
+    "48": {
+        "city": "Tampa",
+        "state": "FL",
+        "fullname": "Tampa, FL"
+    },
+    "49": {
+        "city": "Arlington",
+        "state": "TX",
+        "fullname": "Arlington, TX"
+    },
+    "50": {
+        "city": "Wichita",
+        "state": "KS",
+        "fullname": "Wichita, KS"
+    },
+    "51": {
+        "city": "Aurora",
+        "state": "CO",
+        "fullname": "Aurora, CO"
+    },
+    "52": {
+        "city": "New Orleans",
+        "state": "LA",
+        "fullname": "New Orleans, LA"
+    },
+    "53": {
+        "city": "Cleveland",
+        "state": "OH",
+        "fullname": "Cleveland, OH"
+    },
+    "54": {
+        "city": "Honolulu",
+        "state": "HI",
+        "fullname": "Honolulu, HI"
+    },
+    "55": {
+        "city": "Anaheim",
+        "state": "CA",
+        "fullname": "Anaheim, CA"
+    },
+    "56": {
+        "city": "Henderson",
+        "state": "NV",
+        "fullname": "Henderson, NV"
+    },
+    "57": {
+        "city": "Orlando",
+        "state": "FL",
+        "fullname": "Orlando, FL"
+    },
+    "58": {
+        "city": "Lexington",
+        "state": "KY",
+        "fullname": "Lexington, KY"
+    },
+    "59": {
+        "city": "Stockton",
+        "state": "CA",
+        "fullname": "Stockton, CA"
+    },
+    "60": {
+        "city": "Riverside",
+        "state": "CA",
+        "fullname": "Riverside, CA"
+    },
+    "61": {
+        "city": "Corpus Christi",
+        "state": "TX",
+        "fullname": "Corpus Christi, TX"
+    },
+    "62": {
+        "city": "Irvine",
+        "state": "CA",
+        "fullname": "Irvine, CA"
+    },
+    "63": {
+        "city": "Cincinnati",
+        "state": "OH",
+        "fullname": "Cincinnati, OH"
+    },
+    "64": {
+        "city": "Santa Ana",
+        "state": "CA",
+        "fullname": "Santa Ana, CA"
+    },
+    "65": {
+        "city": "Newark",
+        "state": "NJ",
+        "fullname": "Newark, NJ"
+    },
+    "66": {
+        "city": "Saint Paul",
+        "state": "MN",
+        "fullname": "Saint Paul, MN"
+    },
+    "67": {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "fullname": "Pittsburgh, PA"
+    },
+    "68": {
+        "city": "Greensboro",
+        "state": "NC",
+        "fullname": "Greensboro, NC"
+    },
+    "69": {
+        "city": "Durham",
+        "state": "NC",
+        "fullname": "Durham, NC"
+    },
+    "70": {
+        "city": "Lincoln",
+        "state": "NE",
+        "fullname": "Lincoln, NE"
+    },
+    "71": {
+        "city": "Jersey City",
+        "state": "NJ",
+        "fullname": "Jersey City, NJ"
+    },
+    "72": {
+        "city": "Plano",
+        "state": "TX",
+        "fullname": "Plano, TX"
+    },
+    "73": {
+        "city": "Anchorage",
+        "state": "AK",
+        "fullname": "Anchorage, AK"
+    },
+    "74": {
+        "city": "North Las Vegas",
+        "state": "NV",
+        "fullname": "North Las Vegas, NV"
+    },
+    "75": {
+        "city": "St. Louis",
+        "state": "MO",
+        "fullname": "St. Louis, MO"
+    },
+    "76": {
+        "city": "Madison",
+        "state": "WI",
+        "fullname": "Madison, WI"
+    },
+    "77": {
+        "city": "Chandler",
+        "state": "AZ",
+        "fullname": "Chandler, AZ"
+    },
+    "78": {
+        "city": "Gilbert",
+        "state": "AZ",
+        "fullname": "Gilbert, AZ"
+    },
+    "79": {
+        "city": "Reno",
+        "state": "NV",
+        "fullname": "Reno, NV"
+    },
+    "80": {
+        "city": "Buffalo",
+        "state": "NY",
+        "fullname": "Buffalo, NY"
+    },
+    "81": {
+        "city": "Chula Vista",
+        "state": "CA",
+        "fullname": "Chula Vista, CA"
+    },
+    "82": {
+        "city": "Fort Wayne",
+        "state": "IN",
+        "fullname": "Fort Wayne, IN"
+    },
+    "83": {
+        "city": "Lubbock",
+        "state": "TX",
+        "fullname": "Lubbock, TX"
+    },
+    "84": {
+        "city": "Toledo",
+        "state": "OH",
+        "fullname": "Toledo, OH"
+    },
+    "85": {
+        "city": "St. Petersburg",
+        "state": "FL",
+        "fullname": "St. Petersburg, FL"
+    },
+    "86": {
+        "city": "Laredo",
+        "state": "TX",
+        "fullname": "Laredo, TX"
+    },
+    "87": {
+        "city": "Irving",
+        "state": "TX",
+        "fullname": "Irving, TX"
+    },
+    "88": {
+        "city": "Chesapeake",
+        "state": "VA",
+        "fullname": "Chesapeake, VA"
+    },
+    "89": {
+        "city": "Glendale",
+        "state": "AZ",
+        "fullname": "Glendale, AZ"
+    },
+    "90": {
+        "city": "Winston-Salem",
+        "state": "NC",
+        "fullname": "Winston-Salem, NC"
+    },
+    "91": {
+        "city": "Port St. Lucie",
+        "state": "FL",
+        "fullname": "Port St. Lucie, FL"
+    },
+    "92": {
+        "city": "Scottsdale",
+        "state": "AZ",
+        "fullname": "Scottsdale, AZ"
+    },
+    "93": {
+        "city": "Garland",
+        "state": "TX",
+        "fullname": "Garland, TX"
+    },
+    "94": {
+        "city": "Boise",
+        "state": "ID",
+        "fullname": "Boise, ID"
+    },
+    "95": {
+        "city": "Norfolk",
+        "state": "VA",
+        "fullname": "Norfolk, VA"
+    },
+    "96": {
+        "city": "Spokane",
+        "state": "WA",
+        "fullname": "Spokane, WA"
+    },
+    "97": {
+        "city": "Richmond",
+        "state": "VA",
+        "fullname": "Richmond, VA"
+    },
+    "98": {
+        "city": "Fremont",
+        "state": "CA",
+        "fullname": "Fremont, CA"
+    },
+    "99": {
+        "city": "Huntsville",
+        "state": "AL",
+        "fullname": "Huntsville, AL"
+    },
+    "100": {
+        "city": "Frisco",
+        "state": "TX",
+        "fullname": "Frisco, TX"
+    },
+    "101": {
+        "city": "Cape Coral",
+        "state": "FL",
+        "fullname": "Cape Coral, FL"
+    },
+    "102": {
+        "city": "Santa Clarita",
+        "state": "CA",
+        "fullname": "Santa Clarita, CA"
+    },
+    "103": {
+        "city": "San Bernardino",
+        "state": "CA",
+        "fullname": "San Bernardino, CA"
+    },
+    "104": {
+        "city": "Tacoma",
+        "state": "WA",
+        "fullname": "Tacoma, WA"
+    },
+    "105": {
+        "city": "Hialeah",
+        "state": "FL",
+        "fullname": "Hialeah, FL"
+    },
+    "106": {
+        "city": "Baton Rouge",
+        "state": "LA",
+        "fullname": "Baton Rouge, LA"
+    },
+    "107": {
+        "city": "Modesto",
+        "state": "CA",
+        "fullname": "Modesto, CA"
+    },
+    "108": {
+        "city": "Fontana",
+        "state": "CA",
+        "fullname": "Fontana, CA"
+    },
+    "109": {
+        "city": "McKinney",
+        "state": "TX",
+        "fullname": "McKinney, TX"
+    },
+    "110": {
+        "city": "Moreno Valley",
+        "state": "CA",
+        "fullname": "Moreno Valley, CA"
+    },
+    "111": {
+        "city": "Des Moines",
+        "state": "IA",
+        "fullname": "Des Moines, IA"
+    },
+    "112": {
+        "city": "Fayetteville",
+        "state": "NC",
+        "fullname": "Fayetteville, NC"
+    },
+    "113": {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "fullname": "Salt Lake City, UT"
+    },
+    "114": {
+        "city": "Yonkers",
+        "state": "NY",
+        "fullname": "Yonkers, NY"
+    },
+    "115": {
+        "city": "Worcester",
+        "state": "MA",
+        "fullname": "Worcester, MA"
+    },
+    "116": {
+        "city": "Rochester",
+        "state": "NY",
+        "fullname": "Rochester, NY"
+    },
+    "117": {
+        "city": "Sioux Falls",
+        "state": "SD",
+        "fullname": "Sioux Falls, SD"
+    },
+    "118": {
+        "city": "Little Rock",
+        "state": "AR",
+        "fullname": "Little Rock, AR"
+    },
+    "119": {
+        "city": "Amarillo",
+        "state": "TX",
+        "fullname": "Amarillo, TX"
+    },
+    "120": {
+        "city": "Tallahassee",
+        "state": "FL",
+        "fullname": "Tallahassee, FL"
+    },
+    "121": {
+        "city": "Grand Prairie",
+        "state": "TX",
+        "fullname": "Grand Prairie, TX"
+    },
+    "122": {
+        "city": "Columbus",
+        "state": "GA",
+        "fullname": "Columbus, GA"
+    },
+    "123": {
+        "city": "Augusta",
+        "state": "GA",
+        "fullname": "Augusta, GA"
+    },
+    "124": {
+        "city": "Peoria",
+        "state": "AZ",
+        "fullname": "Peoria, AZ"
+    },
+    "125": {
+        "city": "Oxnard",
+        "state": "CA",
+        "fullname": "Oxnard, CA"
+    },
+    "126": {
+        "city": "Knoxville",
+        "state": "TN",
+        "fullname": "Knoxville, TN"
+    },
+    "127": {
+        "city": "Overland Park",
+        "state": "KS",
+        "fullname": "Overland Park, KS"
+    },
+    "128": {
+        "city": "Birmingham",
+        "state": "AL",
+        "fullname": "Birmingham, AL"
+    },
+    "129": {
+        "city": "Grand Rapids",
+        "state": "MI",
+        "fullname": "Grand Rapids, MI"
+    },
+    "130": {
+        "city": "Vancouver",
+        "state": "WA",
+        "fullname": "Vancouver, WA"
+    },
+    "131": {
+        "city": "Montgomery",
+        "state": "AL",
+        "fullname": "Montgomery, AL"
+    },
+    "132": {
+        "city": "Huntington Beach",
+        "state": "CA",
+        "fullname": "Huntington Beach, CA"
+    },
+    "133": {
+        "city": "Providence",
+        "state": "RI",
+        "fullname": "Providence, RI"
+    },
+    "134": {
+        "city": "Brownsville",
+        "state": "TX",
+        "fullname": "Brownsville, TX"
+    },
+    "135": {
+        "city": "Tempe",
+        "state": "AZ",
+        "fullname": "Tempe, AZ"
+    },
+    "136": {
+        "city": "Akron",
+        "state": "OH",
+        "fullname": "Akron, OH"
+    },
+    "137": {
+        "city": "Glendale",
+        "state": "CA",
+        "fullname": "Glendale, CA"
+    },
+    "138": {
+        "city": "Chattanooga",
+        "state": "TN",
+        "fullname": "Chattanooga, TN"
+    },
+    "139": {
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "fullname": "Fort Lauderdale, FL"
+    },
+    "140": {
+        "city": "Newport News",
+        "state": "VA",
+        "fullname": "Newport News, VA"
+    },
+    "141": {
+        "city": "Mobile",
+        "state": "AL",
+        "fullname": "Mobile, AL"
+    },
+    "142": {
+        "city": "Ontario",
+        "state": "CA",
+        "fullname": "Ontario, CA"
+    },
+    "143": {
+        "city": "Clarksville",
+        "state": "TN",
+        "fullname": "Clarksville, TN"
+    },
+    "144": {
+        "city": "Cary",
+        "state": "NC",
+        "fullname": "Cary, NC"
+    },
+    "145": {
+        "city": "Elk Grove",
+        "state": "CA",
+        "fullname": "Elk Grove, CA"
+    },
+    "146": {
+        "city": "Shreveport",
+        "state": "LA",
+        "fullname": "Shreveport, LA"
+    },
+    "147": {
+        "city": "Eugene",
+        "state": "OR",
+        "fullname": "Eugene, OR"
+    },
+    "148": {
+        "city": "Aurora",
+        "state": "IL",
+        "fullname": "Aurora, IL"
+    },
+    "149": {
+        "city": "Salem",
+        "state": "OR",
+        "fullname": "Salem, OR"
+    },
+    "150": {
+        "city": "Santa Rosa",
+        "state": "CA",
+        "fullname": "Santa Rosa, CA"
+    },
+    "151": {
+        "city": "Rancho Cucamonga",
+        "state": "CA",
+        "fullname": "Rancho Cucamonga, CA"
+    },
+    "152": {
+        "city": "Pembroke Pines",
+        "state": "FL",
+        "fullname": "Pembroke Pines, FL"
+    },
+    "153": {
+        "city": "Fort Collins",
+        "state": "CO",
+        "fullname": "Fort Collins, CO"
+    },
+    "154": {
+        "city": "Springfield",
+        "state": "MO",
+        "fullname": "Springfield, MO"
+    },
+    "155": {
+        "city": "Oceanside",
+        "state": "CA",
+        "fullname": "Oceanside, CA"
+    },
+    "156": {
+        "city": "Garden Grove",
+        "state": "CA",
+        "fullname": "Garden Grove, CA"
+    },
+    "157": {
+        "city": "Lancaster",
+        "state": "CA",
+        "fullname": "Lancaster, CA"
+    },
+    "158": {
+        "city": "Murfreesboro",
+        "state": "TN",
+        "fullname": "Murfreesboro, TN"
+    },
+    "159": {
+        "city": "Palmdale",
+        "state": "CA",
+        "fullname": "Palmdale, CA"
+    },
+    "160": {
+        "city": "Corona",
+        "state": "CA",
+        "fullname": "Corona, CA"
+    },
+    "161": {
+        "city": "Killeen",
+        "state": "TX",
+        "fullname": "Killeen, TX"
+    },
+    "162": {
+        "city": "Salinas",
+        "state": "CA",
+        "fullname": "Salinas, CA"
+    },
+    "163": {
+        "city": "Roseville",
+        "state": "CA",
+        "fullname": "Roseville, CA"
+    },
+    "164": {
+        "city": "Denton",
+        "state": "TX",
+        "fullname": "Denton, TX"
+    },
+    "165": {
+        "city": "Surprise",
+        "state": "AZ",
+        "fullname": "Surprise, AZ"
+    },
+    "166": {
+        "city": "Macon",
+        "state": "GA",
+        "fullname": "Macon, GA"
+    },
+    "167": {
+        "city": "Paterson",
+        "state": "NJ",
+        "fullname": "Paterson, NJ"
+    },
+    "168": {
+        "city": "Lakewood",
+        "state": "CO",
+        "fullname": "Lakewood, CO"
+    },
+    "169": {
+        "city": "Hayward",
+        "state": "CA",
+        "fullname": "Hayward, CA"
+    },
+    "170": {
+        "city": "Charleston",
+        "state": "SC",
+        "fullname": "Charleston, SC"
+    },
+    "171": {
+        "city": "Alexandria",
+        "state": "VA",
+        "fullname": "Alexandria, VA"
+    },
+    "172": {
+        "city": "Hollywood",
+        "state": "FL",
+        "fullname": "Hollywood, FL"
+    },
+    "173": {
+        "city": "Springfield",
+        "state": "MA",
+        "fullname": "Springfield, MA"
+    },
+    "174": {
+        "city": "Kansas City",
+        "state": "KS",
+        "fullname": "Kansas City, KS"
+    },
+    "175": {
+        "city": "Sunnyvale",
+        "state": "CA",
+        "fullname": "Sunnyvale, CA"
+    },
+    "176": {
+        "city": "Bellevue",
+        "state": "WA",
+        "fullname": "Bellevue, WA"
+    },
+    "177": {
+        "city": "Joliet",
+        "state": "IL",
+        "fullname": "Joliet, IL"
+    },
+    "178": {
+        "city": "Naperville",
+        "state": "IL",
+        "fullname": "Naperville, IL"
+    },
+    "179": {
+        "city": "Escondido",
+        "state": "CA",
+        "fullname": "Escondido, CA"
+    },
+    "180": {
+        "city": "Bridgeport",
+        "state": "CT",
+        "fullname": "Bridgeport, CT"
+    },
+    "181": {
+        "city": "Savannah",
+        "state": "GA",
+        "fullname": "Savannah, GA"
+    },
+    "182": {
+        "city": "Olathe",
+        "state": "KS",
+        "fullname": "Olathe, KS"
+    },
+    "183": {
+        "city": "Mesquite",
+        "state": "TX",
+        "fullname": "Mesquite, TX"
+    },
+    "184": {
+        "city": "Pasadena",
+        "state": "TX",
+        "fullname": "Pasadena, TX"
+    },
+    "185": {
+        "city": "McAllen",
+        "state": "TX",
+        "fullname": "McAllen, TX"
+    },
+    "186": {
+        "city": "Rockford",
+        "state": "IL",
+        "fullname": "Rockford, IL"
+    },
+    "187": {
+        "city": "Gainesville",
+        "state": "FL",
+        "fullname": "Gainesville, FL"
+    },
+    "188": {
+        "city": "Syracuse",
+        "state": "NY",
+        "fullname": "Syracuse, NY"
+    },
+    "189": {
+        "city": "Pomona",
+        "state": "CA",
+        "fullname": "Pomona, CA"
+    },
+    "190": {
+        "city": "Visalia",
+        "state": "CA",
+        "fullname": "Visalia, CA"
+    },
+    "191": {
+        "city": "Thornton",
+        "state": "CO",
+        "fullname": "Thornton, CO"
+    },
+    "192": {
+        "city": "Waco",
+        "state": "TX",
+        "fullname": "Waco, TX"
+    },
+    "193": {
+        "city": "Jackson",
+        "state": "MS",
+        "fullname": "Jackson, MS"
+    },
+    "194": {
+        "city": "Columbia",
+        "state": "SC",
+        "fullname": "Columbia, SC"
+    },
+    "195": {
+        "city": "Lakewood",
+        "state": "NJ",
+        "fullname": "Lakewood, NJ"
+    },
+    "196": {
+        "city": "Fullerton",
+        "state": "CA",
+        "fullname": "Fullerton, CA"
+    },
+    "197": {
+        "city": "Torrance",
+        "state": "CA",
+        "fullname": "Torrance, CA"
+    },
+    "198": {
+        "city": "Victorville",
+        "state": "CA",
+        "fullname": "Victorville, CA"
+    },
+    "199": {
+        "city": "Midland",
+        "state": "TX",
+        "fullname": "Midland, TX"
+    }
+}
