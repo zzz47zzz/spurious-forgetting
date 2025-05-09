@@ -96,7 +96,7 @@ Check the *support_dataset_list* in *utils/dataformat_preprocess.py* and select 
 
 Then, download the raw dataset to the folder *dataset/{dataset-name}*.
 For example, download the concept_1k to the folder *dataset/biography_qa*.
-The raw datasets can be downloaded in the Supplementray Material.
+The raw datasets can be downloaded in the Supplementray Material (in the OpenReview link of this paper).
 The downloaded raw datasets will have the following folders.
 ```
 ./
